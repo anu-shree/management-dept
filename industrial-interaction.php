@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                    <title>PhD</title>
+                    <title>Industrial Interaction</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -61,10 +61,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/phd/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-Q' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fphd%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fphd%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/industrial-interaction/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-aT' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Findustrial-interaction%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Findustrial-interaction%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -77,14 +77,14 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
     
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="PhD" />
-<meta property="og:url" content="http://proxap.in/ismdemo/phd/" />
-<meta property="og:description" content="Coming Soon" />
-<meta property="article:published_time" content="2018-12-19T20:02:30+00:00" />
-<meta property="article:modified_time" content="2019-01-13T06:05:48+00:00" />
+<meta property="og:title" content="Industrial Interaction" />
+<meta property="og:url" content="http://proxap.in/ismdemo/industrial-interaction/" />
+<meta property="og:description" content="The Faculty of the department have completed 10 consultancy assignments sponsored by CMPFO, DGMS, BCCL, Hindustan Zinc Limited, Eastern Coalfields Limited, CIMFR, NCL, BSNL etc.Apart from the above…" />
+<meta property="article:published_time" content="2019-03-24T10:56:18+00:00" />
+<meta property="article:modified_time" content="2019-03-24T10:56:20+00:00" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="PhD" />
+<meta name="twitter:text:title" content="Industrial Interaction" />
 <meta name="twitter:card" content="summary" />
 
 <!-- End Jetpack Open Graph Tags -->
@@ -94,7 +94,7 @@ float: none;
 display: inline-block;
 }			</style>
             </head>
-        <body class="page-template-default page page-id-52 wp-custom-logo full no-sidebar">
+        <body class="page-template-default page page-id-675 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <div id="loader">
@@ -169,31 +169,31 @@ display: inline-block;
         </svg>
         <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
     <nav id="site-navigation" class="main-navigation">
-        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.html">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
             </ul>
             </li>
             <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
             </ul>
             </li>
             <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
             </ul>
             </li>
             <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
             </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
@@ -207,8 +207,8 @@ display: inline-block;
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
-                        <h2>PhD</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">PhD</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+                        <h2>Industrial Interaction</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Industrial Interaction</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -216,16 +216,20 @@ display: inline-block;
     <main id="main" class="site-main">
 
         
-<article id="post-52" class="post-52 page type-page status-publish hentry">
+<article id="post-675" class="post-675 page type-page status-publish hentry">
 
 <div class="entry-container">
     <div class="entry-content">
         
-<h4>Coming Soon</h4>
+<p>The Faculty of the department have completed 10 consultancy assignments sponsored by CMPFO, DGMS, BCCL, Hindustan Zinc Limited, Eastern Coalfields Limited, CIMFR, NCL, BSNL etc.<br>Apart from the above, the department has offered in campus and off campus MDP/EDP programmes to various reputed organizations like World Bank, Coal India Ltd., NHPC, Power Grid, Mecon Ranchi, Indian Institute of Coal Management, Ranchi, BSNL, UCIL, SAIL etc, which are as follows:<br><br>Consultancy/Short-term courses undertaken by the department:<br></p>
+
+
+
+<table class="wp-block-table has-fixed-layout is-style-stripes"><thead><tr><th>SI. NO.</th><th>Title of Consultancy Work</th><th>Sponsorers</th><th>Coordinator(s)</th></tr></thead><tbody><tr><td>1</td><td>Improvement of productivity through Quality Management in 1995.</td><td>BCCL/HZL/ECL</td><td>Prof. Kampan Mukherjee<br>Dr. Chandan Bhar</td></tr><tr><td>2</td><td>Quality and productivity for growth in 1995.</td><td>HZL</td><td>Prof. Kampan Mukherjee<br>Dr. Chandan Bhar</td></tr><tr><td>3</td><td>Turning around the Indian coal industry in 1996.</td><td>BCCL/ECL/MCL</td><td>Dr. Pramod Pathak<br>Dr. P.K. Chakrabarti</td></tr><tr><td>4</td><td>Management for non- MBAs in 1999.</td><td>CMRI</td><td>Dr. Pramod Pathak<br>Dr. J.K. Pattanayak</td></tr><tr><td>5</td><td>Assessment of performance of opencast projects of NCL in 2003.</td><td>NCL</td><td>Prof. Kampan Mukherjee<br>Dr. Chandan Bhar</td></tr><tr><td>6</td><td>Managing Executive Stress for Calcutta Management Association in 2000.</td><td>CMA</td><td>Dr. Pramod Pathak</td></tr><tr><td>7</td><td>Corporate accounting practices in BSNL in 2001.</td><td>BSNL</td><td>Dr. J.K. Pattanayak</td></tr><tr><td>8</td><td>Corporate accounting in management planning and control for BSNL executives in 2001.</td><td>BSNL</td><td>Dr. J.K. Pattanayak</td></tr><tr><td>9</td><td>Total Productivity Management for work culture improvement in CCL in 2001.</td><td>MARG-Associates Bangalore</td><td>Dr. Pramod Pathak</td></tr><tr><td>10</td><td>Environmental and Social Capacity Building in coal industry in 2005 (in collaboration with CME)</td><td>World bank</td><td>Dr. Pramod Pathak</td></tr><tr><td>11</td><td>Behavioural Reorientation of frontline Staff of retail outlets of Indian Oil in Jharkhand region</td><td>Indian Oil Corporation</td><td>Dr. Pramod Pathak<br>Dr. Saumya Singh</td></tr><tr><td>12</td><td>Restructuring of Coal Controller’sOrganization (Principal Investigator:Prof. S. N. Mukherjee, Centre for Longwall Mine Mechanization)</td><td>Ministry of Coal,Govt. of India</td><td>Dr. Pramod Pathak<br>Dr. Chandan Bhar</td></tr><tr><td>13</td><td>Management of Industrial Projects with special reference to Coal Mining Industry</td><td>BCCL</td><td>Prof.K.Mukherjee<br>Dr. C.Bhar</td></tr><tr><td>14</td><td>Impact Assessment on initiatives taken by CMPFO</td><td>CMPFO</td><td>Dr.P.Pathak<br>Dr. C.Bhar<br>Dr. J.K. Pattanayak<br>Dr.G.S.Pathak<br></td></tr><tr><td>15</td><td>Work study for assessment of organizational strength of DGMS</td><td>Ministry of Labour,Govt. of India</td><td>Dr. C.Bhar<br>Dr. J.K. Pattanayak<br>Dr.P.Pathak<br>Prof. K. Mukherjee<br>Dr.S.Mondal<br>Dr.A.K.Pal<br>Prof.T.Kumar</td></tr><tr><td>16</td><td>Project Management and its application in Coal Mining Industry</td><td>BCCL</td><td>Prof.K.Mukherjee<br>Dr. C.Bhar<br>Dr.S.Mondal</td></tr><tr><td>17</td><td>Overall Project Planning</td><td>NHPC</td><td>Dr. C.Bhar<br>Prof.K.Mukherjee<br>Dr.S.Mondal<br>Dr.P.Pathak<br>Dr.Mitali Sen<br>Dr.Niladri Das</td></tr><tr><td>18</td><td>Managerial Effectiveness through Self Awareness</td><td>Power Grid</td><td>Dr.P.Pathak<br>Dr.S.Singh<br>Dr.M.Pandey<br>Dr.G.S.Pathak<br>Prof.K.Mukherjee<br></td></tr><tr><td>19</td><td>Marketing Skills for R&amp;D personnel</td><td>CIMFR</td><td>Dr.P.Pathak<br>Dr.S.Singh<br>Dr.M.Pandey<br>Prof.K.Mukherjee<br>Dr. J.K. Pattanayak<br>Dr. Niladri Das</td></tr><tr><td>20</td><td>Impact assessment of NREGS initiatives at Dhanbad District</td><td>Government of Jharkhand</td><td>Dr.P.Pathak<br>Dr.J.K.Pattanayak<br>Dr. C.Bhar<br>Dr.S.Mondal<br>Prof.T.Kumar</td></tr></tbody></table>
     </div><!-- .entry-content -->
 
         </div><!-- .entry-container -->
-</article><!-- #post-52 -->
+</article><!-- #post-675 -->
 
     </main><!-- #main -->
 </div><!-- #primary -->
@@ -305,8 +309,8 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 _stq = window._stq || [];
-_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'52',tz:'0',srv:'proxap.in'} ]);
-_stq.push([ 'clickTrackerInit', '156005419', '52' ]);
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'675',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '675' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>

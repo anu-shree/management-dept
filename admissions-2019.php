@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                    <title>Industrial Interaction</title>
+                    <title>Admissions 2019</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -61,10 +61,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/industrial-interaction/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-aT' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Findustrial-interaction%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Findustrial-interaction%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/admissions-2019/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-81' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fadmissions-2019%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fadmissions-2019%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -77,14 +77,14 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
     
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Industrial Interaction" />
-<meta property="og:url" content="http://proxap.in/ismdemo/industrial-interaction/" />
-<meta property="og:description" content="The Faculty of the department have completed 10 consultancy assignments sponsored by CMPFO, DGMS, BCCL, Hindustan Zinc Limited, Eastern Coalfields Limited, CIMFR, NCL, BSNL etc.Apart from the above…" />
-<meta property="article:published_time" content="2019-03-24T10:56:18+00:00" />
-<meta property="article:modified_time" content="2019-03-24T10:56:20+00:00" />
+<meta property="og:title" content="Admissions 2019" />
+<meta property="og:url" content="http://proxap.in/ismdemo/admissions-2019/" />
+<meta property="og:description" content="MBA Programme Admission Process:Two year full time MBA Program Please find the above link for MBA admissions &#8211; Admission to MBA programs of IIT Delhi, IIT Madras and IIT (ISM), Dhanbad will c…" />
+<meta property="article:published_time" content="2019-01-06T09:42:32+00:00" />
+<meta property="article:modified_time" content="2019-01-13T07:11:01+00:00" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="Industrial Interaction" />
+<meta name="twitter:text:title" content="Admissions 2019" />
 <meta name="twitter:card" content="summary" />
 
 <!-- End Jetpack Open Graph Tags -->
@@ -94,7 +94,7 @@ float: none;
 display: inline-block;
 }			</style>
             </head>
-        <body class="page-template-default page page-id-675 wp-custom-logo full no-sidebar">
+        <body class="page-template-default page page-id-497 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <div id="loader">
@@ -169,31 +169,31 @@ display: inline-block;
         </svg>
         <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
     <nav id="site-navigation" class="main-navigation">
-        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.html">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
             </ul>
             </li>
             <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
             </ul>
             </li>
             <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
             </ul>
             </li>
             <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
             </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
@@ -207,8 +207,8 @@ display: inline-block;
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
-                        <h2>Industrial Interaction</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Industrial Interaction</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+                        <h2>Admissions 2019</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Admissions 2019</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -216,20 +216,114 @@ display: inline-block;
     <main id="main" class="site-main">
 
         
-<article id="post-675" class="post-675 page type-page status-publish hentry">
+<article id="post-497" class="post-497 page type-page status-publish hentry">
 
 <div class="entry-container">
     <div class="entry-content">
-        
-<p>The Faculty of the department have completed 10 consultancy assignments sponsored by CMPFO, DGMS, BCCL, Hindustan Zinc Limited, Eastern Coalfields Limited, CIMFR, NCL, BSNL etc.<br>Apart from the above, the department has offered in campus and off campus MDP/EDP programmes to various reputed organizations like World Bank, Coal India Ltd., NHPC, Power Grid, Mecon Ranchi, Indian Institute of Coal Management, Ranchi, BSNL, UCIL, SAIL etc, which are as follows:<br><br>Consultancy/Short-term courses undertaken by the department:<br></p>
+        <p></p>
+<p><!--StartFragment--></p>
+
+
+<p><strong>MBA Programme</strong></p>
 
 
 
-<table class="wp-block-table has-fixed-layout is-style-stripes"><thead><tr><th>SI. NO.</th><th>Title of Consultancy Work</th><th>Sponsorers</th><th>Coordinator(s)</th></tr></thead><tbody><tr><td>1</td><td>Improvement of productivity through Quality Management in 1995.</td><td>BCCL/HZL/ECL</td><td>Prof. Kampan Mukherjee<br>Dr. Chandan Bhar</td></tr><tr><td>2</td><td>Quality and productivity for growth in 1995.</td><td>HZL</td><td>Prof. Kampan Mukherjee<br>Dr. Chandan Bhar</td></tr><tr><td>3</td><td>Turning around the Indian coal industry in 1996.</td><td>BCCL/ECL/MCL</td><td>Dr. Pramod Pathak<br>Dr. P.K. Chakrabarti</td></tr><tr><td>4</td><td>Management for non- MBAs in 1999.</td><td>CMRI</td><td>Dr. Pramod Pathak<br>Dr. J.K. Pattanayak</td></tr><tr><td>5</td><td>Assessment of performance of opencast projects of NCL in 2003.</td><td>NCL</td><td>Prof. Kampan Mukherjee<br>Dr. Chandan Bhar</td></tr><tr><td>6</td><td>Managing Executive Stress for Calcutta Management Association in 2000.</td><td>CMA</td><td>Dr. Pramod Pathak</td></tr><tr><td>7</td><td>Corporate accounting practices in BSNL in 2001.</td><td>BSNL</td><td>Dr. J.K. Pattanayak</td></tr><tr><td>8</td><td>Corporate accounting in management planning and control for BSNL executives in 2001.</td><td>BSNL</td><td>Dr. J.K. Pattanayak</td></tr><tr><td>9</td><td>Total Productivity Management for work culture improvement in CCL in 2001.</td><td>MARG-Associates Bangalore</td><td>Dr. Pramod Pathak</td></tr><tr><td>10</td><td>Environmental and Social Capacity Building in coal industry in 2005 (in collaboration with CME)</td><td>World bank</td><td>Dr. Pramod Pathak</td></tr><tr><td>11</td><td>Behavioural Reorientation of frontline Staff of retail outlets of Indian Oil in Jharkhand region</td><td>Indian Oil Corporation</td><td>Dr. Pramod Pathak<br>Dr. Saumya Singh</td></tr><tr><td>12</td><td>Restructuring of Coal Controller’sOrganization (Principal Investigator:Prof. S. N. Mukherjee, Centre for Longwall Mine Mechanization)</td><td>Ministry of Coal,Govt. of India</td><td>Dr. Pramod Pathak<br>Dr. Chandan Bhar</td></tr><tr><td>13</td><td>Management of Industrial Projects with special reference to Coal Mining Industry</td><td>BCCL</td><td>Prof.K.Mukherjee<br>Dr. C.Bhar</td></tr><tr><td>14</td><td>Impact Assessment on initiatives taken by CMPFO</td><td>CMPFO</td><td>Dr.P.Pathak<br>Dr. C.Bhar<br>Dr. J.K. Pattanayak<br>Dr.G.S.Pathak<br></td></tr><tr><td>15</td><td>Work study for assessment of organizational strength of DGMS</td><td>Ministry of Labour,Govt. of India</td><td>Dr. C.Bhar<br>Dr. J.K. Pattanayak<br>Dr.P.Pathak<br>Prof. K. Mukherjee<br>Dr.S.Mondal<br>Dr.A.K.Pal<br>Prof.T.Kumar</td></tr><tr><td>16</td><td>Project Management and its application in Coal Mining Industry</td><td>BCCL</td><td>Prof.K.Mukherjee<br>Dr. C.Bhar<br>Dr.S.Mondal</td></tr><tr><td>17</td><td>Overall Project Planning</td><td>NHPC</td><td>Dr. C.Bhar<br>Prof.K.Mukherjee<br>Dr.S.Mondal<br>Dr.P.Pathak<br>Dr.Mitali Sen<br>Dr.Niladri Das</td></tr><tr><td>18</td><td>Managerial Effectiveness through Self Awareness</td><td>Power Grid</td><td>Dr.P.Pathak<br>Dr.S.Singh<br>Dr.M.Pandey<br>Dr.G.S.Pathak<br>Prof.K.Mukherjee<br></td></tr><tr><td>19</td><td>Marketing Skills for R&amp;D personnel</td><td>CIMFR</td><td>Dr.P.Pathak<br>Dr.S.Singh<br>Dr.M.Pandey<br>Prof.K.Mukherjee<br>Dr. J.K. Pattanayak<br>Dr. Niladri Das</td></tr><tr><td>20</td><td>Impact assessment of NREGS initiatives at Dhanbad District</td><td>Government of Jharkhand</td><td>Dr.P.Pathak<br>Dr.J.K.Pattanayak<br>Dr. C.Bhar<br>Dr.S.Mondal<br>Prof.T.Kumar</td></tr></tbody></table>
-    </div><!-- .entry-content -->
+<p><strong>Admission Process:Two year full time MBA Program</strong></p>
+
+
+
+<p><a href="https://doms.iitm.ac.in/admission/">https://doms.iitm.ac.in/admission/</a></p>
+
+
+
+<p>Please find the above link for MBA admissions</p>
+
+
+
+<p>&#8211;	<strong>Admission to MBA programs of IIT Delhi, IIT Madras and IIT (ISM), Dhanbad will conducted jointly in the academic session 2019-2021.</strong><br><br>&#8211;	Candidates having a valid CAT 2018 scores can apply online for admission to MBA program, session 2019-2020 of IIT(ISM), Dhanbad through Common Admission Portal, which will open one day after the publication of CAT 2018 result (likely to publish in second week of January 2019). <br>&#8211;	Closing Date of Application Process: 27th January, 2019. <br>&#8211;	Shortlisted candidates (based on the CAT 2018 score) will have to appear for Written Ability Test (WAT) and Personal Interview (PI) at any one of the following centres.  <br>&#8211;	Dates of Conducting WAT and PI: 	 <br>Delhi: 		20, 21, 22 &amp; 23 February, 2019 <br>Chennai: 	23, 24 &amp; 25 February, 2019 <br>Mumbai: 	16, 17 &amp; 18 March, 2019 <br>Kolkata: 		6 &amp;7 April, 2019 <br>Dhanbad: 	6 &amp; 7 April, 2019 <br>&#8211;	Last Date for declaration of final admission results: 29th April, 2019 <br>&#8211;	The application fees is Rs 1600/ for General and OBC (NC) candidates and Rs 800/- for SC/ST/PD candidates applying for IIT(ISM), Dhanbad.  </p>
+
+
+
+<h6><strong>Eligibility criteria:</strong></h6>
+
+
+
+<p></p>
+
+
+
+<p><strong>Eligibility criteria</strong> for the candidates applying to the MBA program, Session 2019-2020 to IIT(ISM), Dhanbad:<br> a.	Should have a valid score in the Common Admissions Test (CAT) 2018 conducted by the Indian Institutes of Management;<br> b.	Should be a Graduate (or professional qualification equivalent to that of a University degree recognized by the UGC) in any discipline with first class or having 60% marks or CGPA of 6.5 out of 10 (55% marks or CGPA of 6.0 for SC/ST/PD) in their degree from a recognized University;<br> c.	Final year students (of the above mentioned programme) are also eligible to apply. Such candidates, if selected, will be admitted provisionally, on the condition that they meet all the requirements for the qualifying degree before start of the program and will produce provisional certificate of completion of the program latest by September 30, 2019; <br>d.	IIT Graduates who have obtained a CGPA of 8 and above on 10 point scale are exempted from CAT score.		 <strong>Name of the Programme</strong><strong>Offered by the Department</strong></p>
+
+
+
+<p>MBA 2 years (4 Semesters)          Department of Management Studies          </p>
+
+
+
+<p>Executive MBA 3 years (6 Semesters)          Department of Management Studies          </p>
+
+
+
+<p><strong>Importamt Links</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>  Three years MBA program for working Executives/Entrepreneurs/Self Employed persons           <a href="https://www.iitism.ac.in/uploads/news_events/admin/Ex-MBA-2018-Advertisement.pdf" target="_blank" rel="noreferrer noopener">Click</a></p>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Contact Details</strong><strong>Phone: 91-326-223-5278, 91-326-229-6631</strong></p>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<figure class="wp-block-image"><img src="https://www.iitism.ac.in/assets/img/new.gif" alt=""/></figure>
+
+
+
+<p><a href="http://MBA Admission Session 2019-2021">M</a><a href="https://www.iitism.ac.in/uploads/news_events/admin/MBA-Admission-2019.pdf">https://www.iitism.ac.in/uploads/news_events/admin/MBA-Admission-2019.pdf</a></p>
+
+
+
+<p><strong>For MBA:</strong></p>
+
+
+
+<p>Dr Sandeep Mondal, +91-326-223-5495<br>Email : sandeepmondal@iitism.ac.in         </p>
+
+
+
+<p> <strong>For Executive MBA:</strong></p>
+
+
+
+<p> <br> Dr Saumya Singh &amp;   Dr Niladri Das          <br>Email :  saumya@iitism.ac.in,  niladri@iitism.ac.in </p>
+
+
+<p><!--EndFragment--></p>
+<p></p>		</div><!-- .entry-content -->
 
         </div><!-- .entry-container -->
-</article><!-- #post-675 -->
+</article><!-- #post-497 -->
 
     </main><!-- #main -->
 </div><!-- #primary -->
@@ -309,8 +403,8 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 _stq = window._stq || [];
-_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'675',tz:'0',srv:'proxap.in'} ]);
-_stq.push([ 'clickTrackerInit', '156005419', '675' ]);
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'497',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '497' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>

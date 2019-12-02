@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                    <title>Alumni</title>
+                    <title>Research Activites</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -61,10 +61,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/alumini/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-12' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Falumini%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Falumini%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/research-activites/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-aR' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fresearch-activites%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fresearch-activites%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -77,16 +77,15 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
     
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Alumni" />
-<meta property="og:url" content="http://proxap.in/ismdemo/alumini/" />
-<meta property="og:description" content="Visit the post for more." />
-<meta property="article:published_time" content="2018-12-19T20:10:52+00:00" />
-<meta property="article:modified_time" content="2018-12-21T13:19:41+00:00" />
+<meta property="og:title" content="Research Activites" />
+<meta property="og:url" content="http://proxap.in/ismdemo/research-activites/" />
+<meta property="og:description" content="The Department has 33 sponsored research projects funded by various funding agencies like AICTE, MHRD, Hindustan Zinc Limited, ICSSR, UGC, CMPDIL, PDIL, World Bank etc which are given below:&nbsp;D…" />
+<meta property="article:published_time" content="2019-03-24T10:28:49+00:00" />
+<meta property="article:modified_time" content="2019-03-24T10:28:50+00:00" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="Alumni" />
+<meta name="twitter:text:title" content="Research Activites" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Visit the post for more." />
 
 <!-- End Jetpack Open Graph Tags -->
         <style type="text/css" id="wp-custom-css">
@@ -95,7 +94,7 @@ float: none;
 display: inline-block;
 }			</style>
             </head>
-        <body class="page-template-default page page-id-64 wp-custom-logo full no-sidebar">
+        <body class="page-template-default page page-id-673 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <div id="loader">
@@ -170,31 +169,31 @@ display: inline-block;
         </svg>
         <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
     <nav id="site-navigation" class="main-navigation">
-        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.html"></a>Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
             </ul>
             </li>
             <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
             </ul>
             </li>
             <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
             </ul>
             </li>
             <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
             </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
@@ -208,8 +207,8 @@ display: inline-block;
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
-                        <h2>Alumni</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Alumni</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+                        <h2>Research Activites</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Research Activites</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -217,14 +216,20 @@ display: inline-block;
     <main id="main" class="site-main">
 
         
-<article id="post-64" class="post-64 page type-page status-publish hentry">
+<article id="post-673" class="post-673 page type-page status-publish hentry">
 
 <div class="entry-container">
     <div class="entry-content">
-                </div><!-- .entry-content -->
+        
+<p>The Department has 33 sponsored research projects funded by various funding agencies like AICTE, MHRD, Hindustan Zinc Limited, ICSSR, UGC, CMPDIL, PDIL, World Bank etc which are given below:&nbsp;<br>Details of number of sponsored research projects undertaken (completed &amp; ongoing)by the department:</p>
+
+
+
+<table class="wp-block-table has-fixed-layout is-style-stripes"><thead><tr><th>SI. NO.</th><th>Title of the project</th><th>Sponsoring Agency</th><th>Project Coordinator</th></tr></thead><tbody><tr><td>1</td><td>Technology Forecasting and Assessment of Fly Ash Utilization in Indian Mining Sector. (Ongoing)</td><td>DST</td><td>Prof.K.Mukherjee<br>Dr. Sandeep Mondal&nbsp;<br>Prof. P.Sen&nbsp;<br>Dr.C.Bhar<br></td></tr><tr><td>2</td><td>Developing e-Content for Training and Development Modules for Managerial and Non Managerial Personnel. (Ongoing)</td><td>MHRD</td><td>Dr. S.Singh<br>Dr. Pramod Pathak</td></tr><tr><td>3</td><td>An Empirical Study of Coal Mining Workers. (Ongoing)</td><td>UGC</td><td>Dr. Pramod Pathak<br>Dr.G.S.Pathak</td></tr><tr><td>4</td><td>Drivers of Rural Entrepreneurship Development in Jharkhand. (Ongoing)</td><td>UGC</td></tr><tr><td>5</td><td>Developing a course structure on environmental accounting for management students in India. (Ongoing)</td><td>UGC</td><td>Dr. J.K. Pattanayak&nbsp;<br>Dr. Niladri Das<br>Dr. Mitali Sen</td></tr><tr><td>6</td><td>Remanufacturing of Automobiles in India. (Ongoing)</td><td>UGC</td><td>Dr. Sandeep Mondal<br>Prof. K.Mukherjee</td></tr><tr><td>7</td><td>Drivers of Entrepreneurial success in Jharkhand: An analysis of Socio-Cultural and Psychological dimensions. (Ongoing)</td><td>ICSSR</td><td>Dr. Mitali Sen Mr. Niladri Das</td></tr><tr><td>8</td><td>Development of Model for Determination of Optimum Cut-off Grade for Surface Mining of Metalliferous Ore Deposits. (Ongoing)</td><td>DST</td><td>Prof.P.Sen<br>Dr.C.Bhar</td></tr><tr><td>9</td><td>Impact of access to microfinance on women entrepreneurship and empowerment. (Ongoing)</td><td>UGC</td><td>Dr.S.Singh<br>Dr. Mitali Sen</td></tr><tr><td>10</td><td>Entrepreneurial Motivational Dynamics: A Study of Person-Environment Variables. (Ongoing)</td><td>ISMU</td><td>Dr.G.S.Pathak</td></tr><tr><td>11</td><td>A study on promotion of Jharkhand as a tourism destination. (Ongoing)</td><td>ISMU</td><td>Dr.S.Singh</td></tr><tr><td>12</td><td>The impact of celebrity surrogate endorsements: An Empirical Study. (Ongoing)</td><td>ISMU</td><td>Ms.M.Pandey</td></tr><tr><td>13</td><td>Evaluating the efficacy of micro finance in rural areas of Jharkhand. (Ongoing)</td><td>ISMU</td><td>Dr. M.Sen</td></tr><tr><td>14</td><td>Development of energy source model in Indian perspective. (Ongoing)</td><td>ISMU</td><td>Dr.S.Mondal</td></tr><tr><td>15</td><td>Promoting environment friendly technology management in small scale units – a case study of Jharkhand. (Completed -2007)</td><td>MHRD</td><td>Dr. J.K. Pattanayak<br>Dr. Pramod Pathak</td></tr><tr><td>16</td><td>Productivity improvement in coal mines. (Completed – 2005)</td><td>AICTE</td><td>Prof. Kampan Mukherjee<br>Dr Chandan Bhar</td></tr><tr><td>17</td><td>Framework of technology transfer in small scale industry – Imperative and strategies. (Completed – 2004)</td><td>MHRD</td><td>Dr. Pramod Pathak<br>Dr. J.K. Pattanayak</td></tr><tr><td>18</td><td>Assessment of performance of opencast projects of NCL (Completed – 2003)</td><td>NCL</td><td>Prof. Kampan Mukherjee<br>Dr Chandan Bhar</td></tr><tr><td>19</td><td>Development of a computerized safety management system for equipment safety – a colliery reporting module. (Completed – 2002)</td><td>ISM</td><td>Dr Chandan Bhar<br>Dr. K. Pathak</td></tr><tr><td>20</td><td>Manpower planning in tribal regions of Jharkhand area. (Completed – 2002)</td><td>ISM</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>21</td><td>Techno-managerial evaluation of non-metallic minerals of South Bihar (Completed – 2001)</td><td>ISM</td><td>Dr. Pramod Pathak</td></tr><tr><td>22</td><td>Value relevance of cash flow disclosures: a study of cash flow from operations as assessed by security market effects. (Completed – 2001)</td><td>ISM</td><td>Dr. J.K. Pattanayak</td></tr><tr><td>23</td><td>Socio-economic studies in West Bengal and Bihar mining areas. (Completed – 2000)</td><td>ICSSR</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>24</td><td>An economic study of Indian steel industry in the wake of changing economic scenario of India. (Completed – 1997)</td><td>ISM</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>25</td><td>Study habits of students in technical institution of Bihar. (Completed – 1996)</td><td>ISM</td><td>Dr. Pramod Pathak</td></tr><tr><td>26</td><td>Quality and productivity for growth. (Completed – 1995)</td><td>HZL</td><td>Prof. Kampan Mukherjee<br>Dr Chandan Bhar</td></tr><tr><td>27</td><td>Coal industry in India – a comparative economic analysis of the pre and post nationalization period since the second Five Year plan. (Completed – 1995)</td><td>UGC</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>28</td><td>Socio-economic studies in Satgram area of ECL. (Completed – 1995)</td><td>PDIL</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>29</td><td>Economic analysis for development of rational costing and pricing for mineral sector in India – a case study of coal industry. (Completed – 1994)</td><td>ISM</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>30</td><td>An economic study of coal industry in India (Completed – 1993)</td><td>UGC</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>31</td><td>Socio-economic studies in Ghusick underground project of ECL. (Completed – 1993)</td><td>CMPDIl</td><td>Dr. P.K. Chakrabarti</td></tr><tr><td>32</td><td>A study of the economic variables of coal industry in India (Completed – 1992)</td><td>ICSSR</td><td>Dr. P.K. Chakrabarti Socio-economic studies in Jharia Coalfields (Area I – VII). (Completed – 1990)</td></tr><tr><td>33</td><td>Socio-economic studies in Jharia Coalfields (Area I – VII). (Completed – 1990)</td><td>CMPDIl</td><td>Dr. P.K. Chakrabarti</td></tr></tbody></table>
+    </div><!-- .entry-content -->
 
         </div><!-- .entry-container -->
-</article><!-- #post-64 -->
+</article><!-- #post-673 -->
 
     </main><!-- #main -->
 </div><!-- #primary -->
@@ -304,8 +309,8 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 _stq = window._stq || [];
-_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'64',tz:'0',srv:'proxap.in'} ]);
-_stq.push([ 'clickTrackerInit', '156005419', '64' ]);
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'673',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '673' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>

@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                    <title>Seminars/Workshops</title>
+                    <title>Facilities</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -61,10 +61,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/seminars-workshops/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-aW' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fseminars-workshops%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fseminars-workshops%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/facilities/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-aO' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffacilities%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffacilities%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -77,14 +77,14 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
     
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Seminars/Workshops" />
-<meta property="og:url" content="http://proxap.in/ismdemo/seminars-workshops/" />
-<meta property="og:description" content="Seminars Organized by the Department : National Seminar on ‘Application of Modern Management Techniques in Mineral based Industries’ during February 17 &amp; 18, 1989.National Seminar on ‘Business …" />
-<meta property="article:published_time" content="2019-03-24T10:57:49+00:00" />
-<meta property="article:modified_time" content="2019-03-24T10:57:51+00:00" />
+<meta property="og:title" content="Facilities" />
+<meta property="og:url" content="http://proxap.in/ismdemo/facilities/" />
+<meta property="og:description" content="The Department has four laboratories: 1. Human Engineering Laboratory :Instruments like Treadmill, Ergometer, ECG Machine, Biomonitor, BP Measuring Instruments, Oxylog, Audiometer, Anthropometer, S…" />
+<meta property="article:published_time" content="2019-03-24T10:24:05+00:00" />
+<meta property="article:modified_time" content="2019-03-24T10:24:07+00:00" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="Seminars/Workshops" />
+<meta name="twitter:text:title" content="Facilities" />
 <meta name="twitter:card" content="summary" />
 
 <!-- End Jetpack Open Graph Tags -->
@@ -94,7 +94,7 @@ float: none;
 display: inline-block;
 }			</style>
             </head>
-        <body class="page-template-default page page-id-678 wp-custom-logo full no-sidebar">
+        <body class="page-template-default page page-id-670 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <div id="loader">
@@ -169,31 +169,31 @@ display: inline-block;
         </svg>
         <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
     <nav id="site-navigation" class="main-navigation">
-        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.html">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
             </ul>
             </li>
             <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
             </ul>
             </li>
             <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
             </ul>
             </li>
             <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
             </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
@@ -207,8 +207,8 @@ display: inline-block;
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
-                        <h2>Seminars/Workshops</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Seminars/Workshops</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+                        <h2>Facilities</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Facilities</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -216,20 +216,34 @@ display: inline-block;
     <main id="main" class="site-main">
 
         
-<article id="post-678" class="post-678 page type-page status-publish hentry">
+<article id="post-670" class="post-670 page type-page status-publish hentry">
 
 <div class="entry-container">
     <div class="entry-content">
         
-<p><strong>Seminars Organized by the Department :</strong><br></p>
+<p><strong>The Department has four laboratories:</strong></p>
 
 
 
-<ol><li>National Seminar on ‘Application of Modern Management Techniques in Mineral based Industries’ during February 17 &amp; 18, 1989.</li><li>National Seminar on ‘Business Strategies and Tactics in Competitive Environment’ during February 25 &amp; 26, 2000.</li><li>National Seminar on ‘Management Challenges – The Road Ahead’ during February 4 &amp; 5, 2005.</li><li>National Seminar on ‘Management in the New Global Order- Quest for Excellence’ during February 24 &amp; 25, 2006.</li><li>National Seminar on ‘Energy and Environment-New Age Management Dimensions’ during November 2 &amp; 3, 2007.</li><li>National Workshop on ‘E-Governance’ during September 1 &amp; 2, 2007.</li><li>Workshop on ‘Pupil-Centric Teaching’ during June 17, 2007.</li><li>National Seminar on ‘Core Sector Management for Global Competitiveness’ during February 20 &amp; 21, 2009.</li></ol>
+<p><strong>1. Human Engineering Laboratory :</strong><br>Instruments like Treadmill, Ergometer, ECG Machine, Biomonitor, BP Measuring Instruments, Oxylog, Audiometer, Anthropometer, Skinfold Caliper, Goniometer, Hand Dynamometer, Reaction Time Apparatus, Workplace Environmental Monitoring Instruments etc. are available to facilitate Reaction Time Analysis, Stress Testing, Physical Fitness Test, Antropometric Database generation for design of machine and workplace.</p>
+
+
+
+<p><strong>2. Work Study Laboratory :</strong><br>Instruments like Work Sampling Simulator, Anemometer, Clinometer, Inclinometer, Dry and Wet Bulb Thermometer, Digital Time Study Board, Digital Stopwatch, 16mm Projector etc. for carrying out Time and Method study for System improvement.</p>
+
+
+
+<p><strong>3. Systems Laboratory :</strong><br>The laboratory contains 38 number of computer terminals with LAN/WAN facility. Internet accessibility in 1 Mbps for 24 hours is available. The laboratory is equipped with softwares like AutoCAD, MATLAB, System Dynamics Software (IGRASP), MS Project, MINITAB, LINDO &amp; LINGO. Financial Databases like Capital Line Corporate Database, Economic Intelligence Unit and Cygnus Portal Database are also available.</p>
+
+
+
+<p><strong>4. Psychology Laboratory :</strong><br>Instruments like Ring Toss, Tower Building/Cube Construction, Ergograph, Tachistoscope, Card sorting Tray with Cards, Human Maze Learning T-shape, Koh’s Block Design Test, etc. are available for Intelligence Testing, Aptitude Measurement, Personality Assessment, Managerial Aptitude Testing, Stress Profile and Employee Behaviour Analysis.
+
+</p>
     </div><!-- .entry-content -->
 
         </div><!-- .entry-container -->
-</article><!-- #post-678 -->
+</article><!-- #post-670 -->
 
     </main><!-- #main -->
 </div><!-- #primary -->
@@ -309,8 +323,8 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 _stq = window._stq || [];
-_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'678',tz:'0',srv:'proxap.in'} ]);
-_stq.push([ 'clickTrackerInit', '156005419', '678' ]);
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'670',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '670' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>

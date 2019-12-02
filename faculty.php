@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                    <title>Admissions 2019</title>
+                    <title>Faculty</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -61,10 +61,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/admissions-2019/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-81' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fadmissions-2019%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fadmissions-2019%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/faculty/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-3T' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffaculty%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffaculty%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -77,14 +77,14 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
     
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Admissions 2019" />
-<meta property="og:url" content="http://proxap.in/ismdemo/admissions-2019/" />
-<meta property="og:description" content="MBA Programme Admission Process:Two year full time MBA Program Please find the above link for MBA admissions &#8211; Admission to MBA programs of IIT Delhi, IIT Madras and IIT (ISM), Dhanbad will c…" />
-<meta property="article:published_time" content="2019-01-06T09:42:32+00:00" />
-<meta property="article:modified_time" content="2019-01-13T07:11:01+00:00" />
+<meta property="og:title" content="Faculty" />
+<meta property="og:url" content="http://proxap.in/ismdemo/faculty/" />
+<meta property="og:description" content="Faculty of Department of Management Studies Our Pride We have experienced faculty with a lot of exposure .They teach incorporating the dynamic changes in the corporate world Chandan Bhar Ph.D. Indi…" />
+<meta property="article:published_time" content="2018-12-22T08:50:50+00:00" />
+<meta property="article:modified_time" content="2019-10-02T09:53:53+00:00" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="Admissions 2019" />
+<meta name="twitter:text:title" content="Faculty" />
 <meta name="twitter:card" content="summary" />
 
 <!-- End Jetpack Open Graph Tags -->
@@ -93,8 +93,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 float: none;
 display: inline-block;
 }			</style>
-            </head>
-        <body class="page-template-default page page-id-497 wp-custom-logo full no-sidebar">
+            <link rel='stylesheet' id='metaslider-flex-slider-css'  href='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
+</head>
+        <body class="page-template-default page page-id-241 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <div id="loader">
@@ -169,31 +171,31 @@ display: inline-block;
         </svg>
         <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
     <nav id="site-navigation" class="main-navigation">
-        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.html">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
             </ul>
             </li>
             <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
             </ul>
             </li>
             <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
             </ul>
             </li>
             <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
             </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
@@ -207,8 +209,8 @@ display: inline-block;
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
-                        <h2>Admissions 2019</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Admissions 2019</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+                        <h2>Faculty</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Faculty</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -216,114 +218,178 @@ display: inline-block;
     <main id="main" class="site-main">
 
         
-<article id="post-497" class="post-497 page type-page status-publish hentry">
+<article id="post-241" class="post-241 page type-page status-publish hentry">
 
 <div class="entry-container">
     <div class="entry-content">
-        <p></p>
-<p><!--StartFragment--></p>
+        
+<h2>Faculty of Department of Management Studies</h2>
 
 
-<p><strong>MBA Programme</strong></p>
 
+<div style="width: 100%; margin: 0 auto;" class="ml-slider-3-10-3 metaslider metaslider-flex metaslider-244 ml-slider  alignnormal">
+<style type="text/css" id="metaslider-css-244">
+    #metaslider_244.flexslider .slides li {margin-right: 50px !important;}
+</style>
+<div id="metaslider_container_244">
+    <div id="metaslider_244">
+        <ul class="slides">
+            <li style="display: none; width: 100%;" class="slide-291 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-291" title="Head Of The Department" /><div class="caption-wrap"><div class="caption">Prof Chandan Bhar</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-260 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/12-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-260" title="12" /><div class="caption-wrap"><div class="caption">Prof Pramod Pathak</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-282 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/10-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-282" title="10" /><div class="caption-wrap"><div class="caption">Prof Jamini Kanta Pattanayak</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-289 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-289" title="3" /><div class="caption-wrap"><div class="caption">Prof Govin Swaroop Pathak</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-280 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/14-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-280" title="14" /><div class="caption-wrap"><div class="caption">Prof Saumya Singh</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-287 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-287" title="5" /><div class="caption-wrap"><div class="caption">  
+Prof Krishnendu Shaw</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-247 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/13-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-247" title="13" /><div class="caption-wrap"><div class="caption">Prof  Sandeep Mondal
+</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-284 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/8-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-284" title="Prof Niladri Das" /><div class="caption-wrap"><div class="caption">Prof  Niladri Das</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-283 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-283" title="9" /><div class="caption-wrap"><div class="caption">Prof  Mrinalini Pandey</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-281 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/11-132x165.jpg" height="250" width="200" alt="" class="slider-244 slide-281" title="11" /><div class="caption-wrap"><div class="caption">Prof Pradeep Prasad</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-290 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-290" title="2" /><div class="caption-wrap"><div class="caption">Prof Bhibas Chandra</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-286 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-286" title="6" /><div class="caption-wrap"><div class="caption">Prof Kuthambalayan Sridhar Thyagaraj</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-288 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/4-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-288" title="4" /><div class="caption-wrap"><div class="caption">Prof Mohd Irfan</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-285 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/7-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-285" title="7" /><div class="caption-wrap"><div class="caption">Prof Mihir K Sinha</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-785 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/09/Shashank_Bansal-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-785" title="Prof Shashank Bansal" /><div class="caption-wrap"><div class="caption">Prof Shashank Bansal</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-790 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/himanshu_gupta-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-790" title="himanshu_gupta" /><div class="caption-wrap"><div class="caption">Prof Himanshu Gupta</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-791 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/Aparna-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-791" title="Aparna" /><div class="caption-wrap"><div class="caption">Prof Aparna Krishna</div></div></li>
+        </ul>
+    </div>
+    
+</div>
+</div>
 
 
-<p><strong>Admission Process:Two year full time MBA Program</strong></p>
 
+<h3><strong>Our Pride </strong></h3>
 
 
-<p><a href="https://doms.iitm.ac.in/admission/">https://doms.iitm.ac.in/admission/</a></p>
 
+<p>We have experienced faculty with a lot of exposure .They teach incorporating the dynamic changes in the corporate world  </p>
 
 
-<p>Please find the above link for MBA admissions</p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1.jpg" alt="" class="wp-image-162" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Chandan Bhar </strong></p>
 
 
-<p>&#8211;	<strong>Admission to MBA programs of IIT Delhi, IIT Madras and IIT (ISM), Dhanbad will conducted jointly in the academic session 2019-2021.</strong><br><br>&#8211;	Candidates having a valid CAT 2018 scores can apply online for admission to MBA program, session 2019-2020 of IIT(ISM), Dhanbad through Common Admission Portal, which will open one day after the publication of CAT 2018 result (likely to publish in second week of January 2019). <br>&#8211;	Closing Date of Application Process: 27th January, 2019. <br>&#8211;	Shortlisted candidates (based on the CAT 2018 score) will have to appear for Written Ability Test (WAT) and Personal Interview (PI) at any one of the following centres.  <br>&#8211;	Dates of Conducting WAT and PI: 	 <br>Delhi: 		20, 21, 22 &amp; 23 February, 2019 <br>Chennai: 	23, 24 &amp; 25 February, 2019 <br>Mumbai: 	16, 17 &amp; 18 March, 2019 <br>Kolkata: 		6 &amp;7 April, 2019 <br>Dhanbad: 	6 &amp; 7 April, 2019 <br>&#8211;	Last Date for declaration of final admission results: 29th April, 2019 <br>&#8211;	The application fees is Rs 1600/ for General and OBC (NC) candidates and Rs 800/- for SC/ST/PD candidates applying for IIT(ISM), Dhanbad.  </p>
 
+<p> Ph.D. Indian Institute of Technology Kharagpur Operations Management </p>
+</div></div>
 
 
-<h6><strong>Eligibility criteria:</strong></h6>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/12.jpg" alt="" class="wp-image-173" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/12.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/12-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Pramod Pathak </strong></p>
 
 
-<p></p>
 
+<p> Ph.D. Banaras Hindu University Human Resources Management, Marketing </p>
+</div></div>
 
 
-<p><strong>Eligibility criteria</strong> for the candidates applying to the MBA program, Session 2019-2020 to IIT(ISM), Dhanbad:<br> a.	Should have a valid score in the Common Admissions Test (CAT) 2018 conducted by the Indian Institutes of Management;<br> b.	Should be a Graduate (or professional qualification equivalent to that of a University degree recognized by the UGC) in any discipline with first class or having 60% marks or CGPA of 6.5 out of 10 (55% marks or CGPA of 6.0 for SC/ST/PD) in their degree from a recognized University;<br> c.	Final year students (of the above mentioned programme) are also eligible to apply. Such candidates, if selected, will be admitted provisionally, on the condition that they meet all the requirements for the qualifying degree before start of the program and will produce provisional certificate of completion of the program latest by September 30, 2019; <br>d.	IIT Graduates who have obtained a CGPA of 8 and above on 10 point scale are exempted from CAT score.		 <strong>Name of the Programme</strong><strong>Offered by the Department</strong></p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/10.jpg" alt="" class="wp-image-171"/></figure><div class="wp-block-media-text__content">
+<p><strong>Jamini Kanta Pattanayak</strong></p>
 
 
-<p>MBA 2 years (4 Semesters)          Department of Management Studies          </p>
 
+<p>  Ph.D. Utkal University  Financial Accounting, Financial Management </p>
+</div></div>
 
 
-<p>Executive MBA 3 years (6 Semesters)          Department of Management Studies          </p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1.jpg" alt="" class="wp-image-164"/></figure><div class="wp-block-media-text__content">
+<p><strong>Govind Swaroop Pathak  </strong></p>
 
 
-<p><strong>Importamt Links</strong></p>
 
+<p>Ph.D. Kanpur University  Human Motivation, HRM, Consumer Psychology </p>
+</div></div>
 
 
-<p></p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/14.jpg" alt="" class="wp-image-175" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/14.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/14-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Saumya Singh </strong></p>
 
 
-<p>  Three years MBA program for working Executives/Entrepreneurs/Self Employed persons           <a href="https://www.iitism.ac.in/uploads/news_events/admin/Ex-MBA-2018-Advertisement.pdf" target="_blank" rel="noreferrer noopener">Click</a></p>
 
+<p> Ph.D. Purvanchal University Online Marketing, Strategic Management </p>
+</div></div>
 
 
-<p></p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1.jpg" alt="" class="wp-image-166"/></figure><div class="wp-block-media-text__content">
+<p><strong>Krishnendu Shaw </strong></p>
 
 
-<hr class="wp-block-separator"/>
 
+<p> Ph.D. Indian Institute of Technology Delhi  Operations Research, Supply Chain Management </p>
+</div></div>
 
 
-<p><strong>Contact Details</strong><strong>Phone: 91-326-223-5278, 91-326-229-6631</strong></p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/13.jpg" alt="" class="wp-image-174" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/13.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/13-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Sandeep Mondal </strong></p>
 
 
-<p></p>
 
+<p>Ph.D. Indian Institute of Technology (ISM) Dhanbad Decision Sciences, Reverse Logistics </p>
+</div></div>
 
 
-<hr class="wp-block-separator"/>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/8.jpg" alt="" class="wp-image-169" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/8.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/8-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Niladri Das  </strong></p>
 
 
-<figure class="wp-block-image"><img src="https://www.iitism.ac.in/assets/img/new.gif" alt=""/></figure>
 
+<p>Ph.D. Indian Institute of Technology (ISM) Dhanbad Capital Market, Entrepreneurship Management </p>
+</div></div>
 
 
-<p><a href="http://MBA Admission Session 2019-2021">M</a><a href="https://www.iitism.ac.in/uploads/news_events/admin/MBA-Admission-2019.pdf">https://www.iitism.ac.in/uploads/news_events/admin/MBA-Admission-2019.pdf</a></p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9.jpg" alt="" class="wp-image-170" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/9-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Mrinalini Pandey</strong> </p>
 
 
-<p><strong>For MBA:</strong></p>
 
+<p> Ph.D. Indian Institute of Technology (ISM) Dhanbad Advertising, Marketing, HRM </p>
+</div></div>
 
 
-<p>Dr Sandeep Mondal, +91-326-223-5495<br>Email : sandeepmondal@iitism.ac.in         </p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2.jpg" alt="" class="wp-image-163" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Bibhas Chandra</strong></p>
 
 
-<p> <strong>For Executive MBA:</strong></p>
 
+<p>  Ph.D. Indian Institute of Technology (ISM) Dhanbad Consumer Behaviour, Social Marketing </p>
+</div></div>
 
 
-<p> <br> Dr Saumya Singh &amp;   Dr Niladri Das          <br>Email :  saumya@iitism.ac.in,  niladri@iitism.ac.in </p>
 
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1.jpg" alt="" class="wp-image-167" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<p><strong>Kuthambalayan Sridhar</strong> <strong>Thyagaraj </strong> </p>
 
-<p><!--EndFragment--></p>
-<p></p>		</div><!-- .entry-content -->
+
+
+<p>Ph.D. Indian Institute of Technology Kanpur  Operations Research, Supply Chain Management </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/4-1.jpg" alt="" class="wp-image-165"/></figure><div class="wp-block-media-text__content">
+<p><strong>Mohd. Irfan </strong></p>
+
+
+
+<p> Ph.D. Indian Institute of Technology Kanpur  Economics, Applied Econometrics <br> It </p>
+</div></div>
+    </div><!-- .entry-content -->
 
         </div><!-- .entry-container -->
-</article><!-- #post-497 -->
+</article><!-- #post-241 -->
 
     </main><!-- #main -->
 </div><!-- #primary -->
@@ -398,13 +464,43 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/custom.min.js?ver=20151215'></script>
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.0'></script>
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/wp-embed.min.js?ver=5.0.7'></script>
+<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.10.3'></script>
+<script type='text/javascript'>
+var metaslider_244 = function($) {$('#metaslider_244').addClass('flexslider');
+        $('#metaslider_244').flexslider({ 
+            slideshowSpeed:7000,
+            animation:'slide',
+            controlNav:true,
+            directionNav:true,
+            pauseOnHover:false,
+            direction:'horizontal',
+            reverse:false,
+            animationSpeed:600,
+            prevText:"Previous",
+            nextText:"Next",
+            fadeFirstSlide:false,
+            easing:"swing",
+            slideshow:true,
+            itemWidth:200,
+            minItems:1,
+            itemMargin:50,
+            useCSS:false
+        });
+        $(document).trigger('metaslider/initialized', '#metaslider_244');
+    };
+    var timer_metaslider_244 = function() {
+        var slider = !window.jQuery ? window.setTimeout(timer_metaslider_244, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_244, 1) : metaslider_244(window.jQuery);
+    };
+    timer_metaslider_244();
+</script>
+<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.10.3'></script>
 <div style="display:none">
 </div>
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 _stq = window._stq || [];
-_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'497',tz:'0',srv:'proxap.in'} ]);
-_stq.push([ 'clickTrackerInit', '156005419', '497' ]);
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'241',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '241' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>

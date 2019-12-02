@@ -1,11 +1,11 @@
 
 		<!DOCTYPE html>
-			<html lang="en-US">
-			<head>
-			<meta charset="UTF-8">
-			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-			<link rel="profile" href="http://gmpg.org/xfn/11">
-						<title></title>
+        <html lang="en-US">
+        <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+                    <title>MBA &#038; IEM</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -13,28 +13,22 @@
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://proxap.in/ismdemo/feed/" />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://proxap.in/ismdemo/comments/feed/" />
-<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/proxap.in\/ismdemo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.7"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
-		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-		<style>
-		.mySlides {display:none;}
-		</style>
-		<style type="text/css">
+    <script type="text/javascript">
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/proxap.in\/ismdemo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.7"}};
+        !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+    </script>
+    <style type="text/css">
 img.wp-smiley,
 img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
 }
 </style>
 <link rel='stylesheet' id='wp-block-library-css'  href='http://proxap.in/ismdemo/wp-includes/css/dist/block-library/style.min.css?ver=5.0.7' type='text/css' media='all' />
@@ -46,57 +40,13 @@ img.emoji {
 <link rel='stylesheet' id='__EPYT__style-css'  href='http://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.0' type='text/css' media='all' />
 <style id='__EPYT__style-inline-css' type='text/css'>
 
-                .epyt-gallery-thumb {
-                        width: 33.333%;
-                }
-                
+            .epyt-gallery-thumb {
+                    width: 33.333%;
+            }
+            
 </style>
 <link rel='stylesheet' id='jetpack_css-css'  href='http://proxap.in/ismdemo/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.1' type='text/css' media='all' />
-<link rel="stylesheet" type="text/css" href="//proxap.in/ismdemo/wp-content/plugins/smart-slider-3/library/media/smartslider.min.css?1545581879" media="all" />
-<style type="text/css">.n2-ss-spinner-simple-white-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: -20px;
-    background: #fff;
-    width: 20px;
-    height: 20px;
-    padding: 10px;
-    border-radius: 50%;
-    z-index: 1000;
-}
-
-.n2-ss-spinner-simple-white {
-  outline: 1px solid RGBA(0,0,0,0);
-  width:100%;
-  height: 100%;
-}
-
-.n2-ss-spinner-simple-white:before {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 20px;
-    height: 20px;
-    margin-top: -11px;
-    margin-left: -11px;
-}
-
-.n2-ss-spinner-simple-white:not(:required):before {
-    content: '';
-    border-radius: 50%;
-    border-top: 2px solid #333;
-    border-right: 2px solid transparent;
-    animation: n2SimpleWhite .6s linear infinite;
-    -webkit-animation: n2SimpleWhite .6s linear infinite;
-}
-@keyframes n2SimpleWhite {
-    to {transform: rotate(360deg);}
-}
-
-@-webkit-keyframes n2SimpleWhite {
-    to {-webkit-transform: rotate(360deg);}
-}</style><script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<!--n2css--><script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <!--[if lt IE 9]>
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/html5.min.js?ver=3.7.3'></script>
@@ -111,313 +61,317 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-b' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/mtech/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-W' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fmtech%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fmtech%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
 <style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">
-					.site-title a,
-			.site-description {
-				color: #0a0a0a;
-			}
-				</style>
-		
+                .site-title a,
+        .site-description {
+            color: #0a0a0a;
+        }
+            </style>
+    
 <!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="website" />
-<meta property="og:title" content="(no title)" />
-<meta property="og:url" content="http://proxap.in/ismdemo/" />
-<meta property="og:image" content="http://proxap.in/ismdemo/wp-content/uploads/2018/12/home5-1.jpg" />
-<meta property="og:image:width" content="487" />
-<meta property="og:image:height" content="215" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="MBA &#038; IEM" />
+<meta property="og:url" content="http://proxap.in/ismdemo/mtech/" />
+<meta property="og:description" content="MBA The MBA program is a two-year full time course. Each academic year is divided into two semesters. In the first year, students are exposed to core courses consisting of certain basic and functio…" />
+<meta property="article:published_time" content="2018-12-19T20:05:34+00:00" />
+<meta property="article:modified_time" content="2018-12-24T11:26:58+00:00" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="IIT (ISM) Dhanbad" />
+<meta name="twitter:text:title" content="MBA &#038; IEM" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Visit the post for more." />
 
 <!-- End Jetpack Open Graph Tags -->
-			<style type="text/css" id="wp-custom-css">
-				li:nth-last-child(1){
-    float: none;
-    display: inline-block;
+        <style type="text/css" id="wp-custom-css">
+            li:nth-last-child(1){
+float: none;
+display: inline-block;
 }			</style>
-				<script type="text/javascript">(function(){var N=this;N.N2_=N.N2_||{r:[],d:[]},N.N2R=N.N2R||function(){N.N2_.r.push(arguments)},N.N2D=N.N2D||function(){N.N2_.d.push(arguments)}}).call(window);if(!window.n2jQuery){window.n2jQuery={ready:function(cb){console.error('n2jQuery will be deprecated!');N2R(['$'],cb)}}}window.nextend={localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');N2R('documentReady',function($){cb.call(window,$)})}};</script><script type="text/javascript" src="//proxap.in/ismdemo/wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min.js?1545581879"></script>
-<script type="text/javascript" src="//proxap.in/ismdemo/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1545581879"></script>
-<script type="text/javascript" src="//proxap.in/ismdemo/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1545581879"></script>
-<script type="text/javascript" src="//proxap.in/ismdemo/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1545581879"></script>
-<script type="text/javascript">N2R('documentReady',function($){N2R(["nextend-frontend","smartslider-frontend","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-2',{"admin":false,"translate3d":1,"callbacks":"","background.video.mobile":1,"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"fullwidth","downscale":1,"upscale":1,"minimumHeight":0,"maximumHeight":600,"maximumSlideWidth":10000,"maximumSlideWidthLandscape":10000,"maximumSlideWidthTablet":10000,"maximumSlideWidthTabletLandscape":10000,"maximumSlideWidthMobile":10000,"maximumSlideWidthMobileLandscape":10000,"maximumSlideWidthConstrainHeight":0,"forceFull":1,"forceFullOverflowX":"body","forceFullHorizontalSelector":"body","constrainRatio":1,"verticalOffsetSelectors":"","decreaseSliderHeight":0,"focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.7,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":1200,"desktopLandscape":1200,"tabletPortrait":840,"tabletLandscape":0,"mobilePortrait":600,"mobileLandscape":0},"basedOn":"combined","orientationMode":"width_and_height","overflowHiddenPage":0,"desktopPortraitScreenWidth":1200,"tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":800,"mobileLandscapeScreenWidth":440},"controls":{"scroll":0,"drag":1,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplayToSlide":-1,"autoplayToSlideIndex":-1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0}},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"initCallbacks":["N2D(\"SmartSliderWidgetArrowImage\",function(i,e){function s(e,s,t,h){this.slider=e,this.slider.started(i.proxy(this.start,this,s,t,h))}return s.prototype.start=function(e,s,t){return this.slider.sliderElement.data(\"arrow\")?!1:(this.slider.sliderElement.data(\"arrow\",this),this.deferred=i.Deferred(),this.slider.sliderElement.on(\"SliderDevice\",i.proxy(this.onDevice,this)).trigger(\"addWidget\",this.deferred),this.previous=i(\"#\"+this.slider.elementID+\"-arrow-previous\").on(\"click\",i.proxy(function(i){i.stopPropagation(),this.slider[n2const.rtl.previous]()},this)),this.previousResize=this.previous.find(\".n2-resize\"),0===this.previousResize.length&&(this.previousResize=this.previous),this.next=i(\"#\"+this.slider.elementID+\"-arrow-next\").on(\"click\",i.proxy(function(i){i.stopPropagation(),this.slider[n2const.rtl.next]()},this)),this.nextResize=this.next.find(\".n2-resize\"),0===this.nextResize.length&&(this.nextResize=this.next),this.desktopRatio=e,this.tabletRatio=s,this.mobileRatio=t,void i.when(this.previous.n2imagesLoaded(),this.next.n2imagesLoaded()).always(i.proxy(this.loaded,this)))},s.prototype.loaded=function(){this.previous.css(\"display\",\"inline-block\"),this.previousResize.css(\"display\",\"inline-block\"),this.previousWidth=this.previousResize.width(),this.previousHeight=this.previousResize.height(),this.previousResize.css(\"display\",\"\"),this.previous.css(\"display\",\"\"),this.next.css(\"display\",\"inline-block\"),this.nextResize.css(\"display\",\"inline-block\"),this.nextWidth=this.nextResize.width(),this.nextHeight=this.nextResize.height(),this.nextResize.css(\"display\",\"\"),this.next.css(\"display\",\"\"),this.previousResize.find(\"img\").css(\"width\",\"100%\"),this.nextResize.find(\"img\").css(\"width\",\"100%\"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},s.prototype.onDevice=function(i,e){var s=1;switch(e.device){case\"tablet\":s=this.tabletRatio;break;case\"mobile\":s=this.mobileRatio;break;default:s=this.desktopRatio}this.previousResize.width(this.previousWidth*s),this.previousResize.height(this.previousHeight*s),this.nextResize.width(this.nextWidth*s),this.nextResize.height(this.nextHeight*s)},s});","new N2Classes.SmartSliderWidgetArrowImage(this, 0.8, 0.7, 0.5);","N2D(\"SmartSliderWidgetBulletTransition\",function(t,e){function i(e,i){this.slider=e,this.slider.started(t.proxy(this.start,this,i))}return i.prototype.start=function(e){if(this.slider.sliderElement.data(\"bullet\"))return!1;if(this.slider.sliderElement.data(\"bullet\",this),this.axis=\"horizontal\",this.offset=0,this.parameters=e,this.bar=this.slider.sliderElement.find(\".nextend-bullet-bar\"),this.event=\"universalclick\",\"mouseenter\"===this.parameters.action&&(this.event=\"mouseenter\"),this.slider.sliderElement.on({slideCountChanged:t.proxy(this.onSlideCountChanged,this),sliderSwitchTo:t.proxy(this.onSlideSwitch,this)}),this.slider.firstSlideReady.done(t.proxy(this.onFirstSlideSet,this)),0===e.overlay){var i=!1;switch(e.area){case 1:i=\"Top\";break;case 12:i=\"Bottom\";break;case 5:i=\"Left\",this.axis=\"vertical\";break;case 8:i=\"Right\",this.axis=\"vertical\"}i&&(this.offset=parseFloat(this.bar.data(\"offset\")),this.slider.responsive.addStaticMargin(i,this))}},i.prototype.onFirstSlideSet=function(t){this.onSlideCountChanged(),this.$dots.eq(t.index).addClass(\"n2-active\")},i.prototype.onDotClick=function(e,i){this.slider.directionalChangeTo(e),t(i.target).blur()},i.prototype.onSlideSwitch=function(t,e){this.$dots.filter(\".n2-active\").removeClass(\"n2-active\"),this.$dots.eq(e).addClass(\"n2-active\")},i.prototype.isVisible=function(){return this.bar.is(\":visible\")},i.prototype.getSize=function(){return\"horizontal\"===this.axis?this.bar.height()+this.offset:this.bar.width()+this.offset},i.prototype.showThumbnail=function(e,i){var s=this.getThumbnail(e);NextendTween.to(s,.3,{opacity:1}),this.$dots.eq(e).one(\"universalleave.thumbnailleave\",t.proxy(this.hideThumbnail,this,e,s))},i.prototype.hideThumbnail=function(t,e,i){i.stopPropagation(),NextendTween.to(e,.3,{opacity:0,onComplete:function(){e.remove()}})},i.prototype.getThumbnail=function(e){var i=this.$dots.eq(e),s=this.slider.sliderElement.offset(),a=i.offset(),o=i.outerWidth(),r=i.outerHeight(),n=t(\"<div\/>\").append(t(\"<div\/>\").css({width:this.parameters.thumbnailWidth,height:this.parameters.thumbnailHeight,backgroundImage:'url(\"'+this.slider.slides[e].getThumbnail()+'\")'}).addClass(\"n2-ss-bullet-thumbnail\")).addClass(this.parameters.thumbnailStyle).addClass(\"n2-ss-bullet-thumbnail-container\").appendTo(this.slider.sliderElement);switch(this.parameters.thumbnailPosition){case\"right\":n.css({left:a.left-s.left+o,top:a.top-s.top+r\/2-n.outerHeight(!0)\/2});break;case\"left\":n.css({left:a.left-s.left-n.outerWidth(!0),top:a.top-s.top+r\/2-n.outerHeight(!0)\/2});break;case\"top\":n.css({left:a.left-s.left+o\/2-n.outerWidth(!0)\/2,top:a.top-s.top-n.outerHeight(!0)});break;case\"bottom\":n.css({left:a.left-s.left+o\/2-n.outerWidth(!0)\/2,top:a.top-s.top+r})}return i.data(\"thumbnail\",n),n},i.prototype.onSlideCountChanged=function(){this.bar.html(\"\");for(var e=0;e<this.slider.slides.length;e++){var i=this.slider.slides[e],s=t('<div class=\"n2-ow '+this.parameters.dotClasses+'\" tabindex=\"0\"><\/div>').on(this.event,t.proxy(this.onDotClick,this,e)).appendTo(this.bar);switch(this.parameters.mode){case\"numeric\":s.html(e+1);break;case\"title\":s.html(i.getTitle())}if(1===this.parameters.thumbnail){var a=i.getThumbnail();a&&s.on({universalenter:t.proxy(this.showThumbnail,this,e)},{leaveOnSecond:!0})}}this.$dots=this.bar.find(\">*\")},i});","new N2Classes.SmartSliderWidgetBulletTransition(this, {\"overlay\":0,\"area\":10,\"dotClasses\":\"n2-style-71f8992c8fa2aba15e7858625601a6fa-dot \",\"mode\":\"\",\"action\":\"click\",\"thumbnail\":1,\"thumbnailWidth\":120,\"thumbnailHeight\":81,\"thumbnailStyle\":\"n2-style-a80a1ff3b8ddafcea99c72dc3040a2b3-simple \",\"thumbnailPosition\":\"top\"});"],"allowBGImageAttachmentFixed":false,"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0})})});</script><link rel='stylesheet' id='metaslider-flex-slider-css'  href='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
-<link rel='stylesheet' id='metaslider-public-css'  href='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
-</head>
-			<body class="home page-template-default page page-id-11 wp-custom-logo full no-sidebar">
-			<div id="page" class="site">
-			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-			<div id="loader">
-            <div class="loader-container">
-               	<svg class="icon icon-spinner-two-way " aria-hidden="true" role="img"> <use href="#icon-spinner-two-way" xlink:href="#icon-spinner-two-way"></use> </svg>            </div>
-        </div><!-- #loader -->
-			<div id="top-menu">
-            <svg class="icon icon-up dropdown-icon" aria-hidden="true" role="img"> <use href="#icon-up" xlink:href="#icon-up"></use> </svg><svg class="icon icon-down dropdown-icon" aria-hidden="true" role="img"> <use href="#icon-down" xlink:href="#icon-down"></use> </svg>            
-            <div class="wrapper">
-                <div class="secondary-menu">
-                	<ul class="menu">
-                			                		<li>
-	                			<svg class="icon icon-clock " aria-hidden="true" role="img"> <use href="#icon-clock" xlink:href="#icon-clock"></use> </svg>9:00 am to 5:00 pm	                		</li>
-	                		                		<li><a href="tel:0326-2235001,2235004">
-	                			<svg class="icon icon-phone-o " aria-hidden="true" role="img"> <use href="#icon-phone-o" xlink:href="#icon-phone-o"></use> </svg>0326-2235001,2235004	                		</a></li>
-                			                		<li><a href="mailto:ms@iitism.ac.in">
-	                			<svg class="icon icon-plane " aria-hidden="true" role="img"> <use href="#icon-plane" xlink:href="#icon-plane"></use> </svg>ms@iitism.ac.in	                		</a></li>
-	                	
-						                		<li>
-							<a href="https://www.iitism.ac.in/index.php/notice">
-							<svg class="icon icon-envelope-o " aria-hidden="true" role="img"> <use href="#icon-envelope-o" xlink:href="#icon-envelope-o"></use> </svg>	                			Notice	                		</li>
-						
-							                		<li>
-							<a href="https://mis.iitism.ac.in/">
-							<svg class="icon icon-mail-reply " aria-hidden="true" role="img"> <use href="#icon-mail-reply" xlink:href="#icon-mail-reply"></use> </svg>	                			MIS	                		</li>
-													                		<li>
-							<a href="https://www.iitism.ac.in/index.php/faculty_members/management_studies">
-							<svg class="icon icon-hashtag " aria-hidden="true" role="img"> <use href="#icon-hashtag" xlink:href="#icon-hashtag"></use> </svg>	                			Faculty	                		</li>
-						                	</ul>
-                </div><!-- .secondary-menu -->
-	            		            <div id="top-search" class="social-menu">
-	                	<ul>
-	                		<li>
-	                			<div id="search">
+            </head>
+        <body class="page-template-default page page-id-58 wp-custom-logo full no-sidebar">
+        <div id="page" class="site">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+        <div id="loader">
+        <div class="loader-container">
+               <svg class="icon icon-spinner-two-way " aria-hidden="true" role="img"> <use href="#icon-spinner-two-way" xlink:href="#icon-spinner-two-way"></use> </svg>            </div>
+    </div><!-- #loader -->
+        <div id="top-menu">
+        <svg class="icon icon-up dropdown-icon" aria-hidden="true" role="img"> <use href="#icon-up" xlink:href="#icon-up"></use> </svg><svg class="icon icon-down dropdown-icon" aria-hidden="true" role="img"> <use href="#icon-down" xlink:href="#icon-down"></use> </svg>            
+        <div class="wrapper">
+            <div class="secondary-menu">
+                <ul class="menu">
+                                                <li>
+                            <svg class="icon icon-clock " aria-hidden="true" role="img"> <use href="#icon-clock" xlink:href="#icon-clock"></use> </svg>9:00 am to 5:00 pm	                		</li>
+                                                <li><a href="tel:0326-2235001,2235004">
+                            <svg class="icon icon-phone-o " aria-hidden="true" role="img"> <use href="#icon-phone-o" xlink:href="#icon-phone-o"></use> </svg>0326-2235001,2235004	                		</a></li>
+                                                <li><a href="mailto:ms@iitism.ac.in">
+                            <svg class="icon icon-plane " aria-hidden="true" role="img"> <use href="#icon-plane" xlink:href="#icon-plane"></use> </svg>ms@iitism.ac.in	                		</a></li>
+                    
+                                            <li>
+                        <a href="https://www.iitism.ac.in/index.php/notice">
+                        <svg class="icon icon-envelope-o " aria-hidden="true" role="img"> <use href="#icon-envelope-o" xlink:href="#icon-envelope-o"></use> </svg>	                			Notice	                		</li>
+                    
+                                                <li>
+                        <a href="https://mis.iitism.ac.in/">
+                        <svg class="icon icon-mail-reply " aria-hidden="true" role="img"> <use href="#icon-mail-reply" xlink:href="#icon-mail-reply"></use> </svg>	                			MIS	                		</li>
+                                                                        <li>
+                        <a href="https://www.iitism.ac.in/index.php/faculty_members/management_studies">
+                        <svg class="icon icon-hashtag " aria-hidden="true" role="img"> <use href="#icon-hashtag" xlink:href="#icon-hashtag"></use> </svg>	                			Faculty	                		</li>
+                                        </ul>
+            </div><!-- .secondary-menu -->
+                                <div id="top-search" class="social-menu">
+                    <ul>
+                        <li>
+                            <div id="search">
 <form role="search" method="get" class="search-form" action="http://proxap.in/ismdemo/">
-	<label>
-		<span class="screen-reader-text">Search for:</span>
-	</label>
-	<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-	<button type="submit" class="search-submit"><svg class="icon icon-search " aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Search</span></button>
+<label>
+    <span class="screen-reader-text">Search for:</span>
+</label>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+<button type="submit" class="search-submit"><svg class="icon icon-search " aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Search</span></button>
 </form>
 </div>
-	                			<a href="#" class="search">
-	                				<svg class="icon icon-search " aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg>	            				</a>
-	                		</li>
-	                	</ul>
-	                </div>
-	            	                <div class="social-menu">
-	                    <ul id="menu-social-menu" class="menu"><li id="menu-item-482" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-482"><a href="http://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-notice/"><span class="screen-reader-text">Notices</span></a></li>
+                            <a href="#" class="search">
+                                <svg class="icon icon-search " aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg>	            				</a>
+                        </li>
+                    </ul>
+                </div>
+                                <div class="social-menu">
+                    <ul id="menu-social-menu" class="menu"><li id="menu-item-482" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-482"><a href="http://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-notice/"><span class="screen-reader-text">Notices</span></a></li>
 <li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-480"><a href="http://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-faculty_members-management_studies/"><span class="screen-reader-text">Faculty</span></a></li>
 <li id="menu-item-481" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-481"><a href="http://proxap.in/ismdemo/tag/https-mis-iitism-ac-in-index-php-login/"><span class="screen-reader-text">MIS</span></a></li>
 </ul>	                </div><!-- .social-menu -->
-                            </div><!-- .wrapper -->
-        </div><!-- #top-menu -->
-			<header id="masthead" class="site-header ">
-		<div class="wrapper">
-			<div class="site-menu">
-            <div class="container">
-				<div class="site-branding pull-left">
-					<a href="http://proxap.in/ismdemo/" class="custom-logo-link" rel="home" itemprop="url"><img width="307" height="324" src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png" class="custom-logo" alt="" itemprop="logo" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png 307w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo-284x300.png 284w" sizes="(max-width: 307px) 100vw, 307px" /></a>					<div class="site-details">
-													<p class="site-title"><a href="http://proxap.in/ismdemo/" rel="home"></a></p>
-											</div><!-- .site-details -->
-				</div><!-- .site-branding -->
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
-            <span class="screen-reader-text">Menu</span>
-            <svg viewBox="0 0 40 40" class="icon-menu">
-                <g>
-                    <rect y="7" width="40" height="2"/>
-                    <rect y="19" width="40" height="2"/>
-                    <rect y="31" width="40" height="2"/>
-                </g>
-            </svg>
-            <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
-		<nav id="site-navigation" class="main-navigation">
-			<ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-has-children menu-item-109"><a href="index.html">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
-<ul class="sub-menu">
-	<li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
-</ul>
-</li>
-<li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
-<ul class="sub-menu">
-	<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-	<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-	<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
-</ul>
-</li>
-<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
-<ul class="sub-menu">
-	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-	<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
-</ul>
-</li>
-<li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
-<ul class="sub-menu">
-	<li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-	<li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-	<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
-</ul>
+                        </div><!-- .wrapper -->
+    </div><!-- #top-menu -->
+        <header id="masthead" class="site-header ">
+    <div class="wrapper">
+        <div class="site-menu">
+        <div class="container">
+            <div class="site-branding pull-left">
+                <a href="http://proxap.in/ismdemo/" class="custom-logo-link" rel="home" itemprop="url"><img width="307" height="324" src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png" class="custom-logo" alt="" itemprop="logo" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png 307w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo-284x300.png 284w" sizes="(max-width: 307px) 100vw, 307px" /></a>					<div class="site-details">
+                                                <p class="site-title"><a href="http://proxap.in/ismdemo/" rel="home"></a></p>
+                                        </div><!-- .site-details -->
+            </div><!-- .site-branding -->
+        <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+        <span class="screen-reader-text">Menu</span>
+        <svg viewBox="0 0 40 40" class="icon-menu">
+            <g>
+                <rect y="7" width="40" height="2"/>
+                <rect y="19" width="40" height="2"/>
+                <rect y="31" width="40" height="2"/>
+            </g>
+        </svg>
+        <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
+    <nav id="site-navigation" class="main-navigation">
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+            <ul class="sub-menu">
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
+            </ul>
+            </li>
+            <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+            <ul class="sub-menu">
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
+            </ul>
+            </li>
+            <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+            <ul class="sub-menu">
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
+            </ul>
+            </li>
+            <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+            <ul class="sub-menu">
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
+            </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
-		</div><!-- .container -->
-        </div><!-- .site-menu -->
-			</div><!-- .wrapper -->
-		</header><!-- #masthead -->
-		<div class="w3-content " style="min-width: 100%; margin-top: 0px; ">
-	<img class="mySlides" src="1.jpg">
-  <img class="mySlides" src="2.jpg">
-  <img class="mySlides" src="1.jpg">
-  <img class="mySlides" src="2.jpg">
-  </div>
-			<div id="content" class="site-content">
-	<div class="single-template-wrapper wrapper page-section">
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
+    </div><!-- .container -->
+    </div><!-- .site-menu -->
+        </div><!-- .wrapper -->
+    </header><!-- #masthead -->
+        <div id="content" class="site-content">
 
-			
-<article id="post-11" class="post-11 page type-page status-publish has-post-thumbnail hentry">
+    <div class="inner-header-image" style="background-image: url( 'http://proxap.in/ismdemo/wp-content/uploads/2018/12/cropped-about-3.jpg' )">
+        <div class="overlay"></div>
+        <div class="wrapper">
+            <div class="custom-header-content">
+                        <h2>MBA &#038; IEM</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">MBA &#038; IEM</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+        </div><!-- .wrapper -->
+    </div><!-- .custom-header-content-wrapper -->
+    <div class="single-template-wrapper wrapper page-section">
+<div id="primary" class="content-area">
+    <main id="main" class="site-main">
 
-    <div class="entry-container">
-		<div class="entry-content">
-			
-<!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="1.jpg" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div> -->
-
-
-
-
-<h2>            Management Studies </h2>
-
-
-
-<p style="text-align:left"> </p>
-
-
-
-<p>
-
-Indian School of Mines (ISM), Dhanbad is a premier educational institute of this country engaged in imparting technical education since 1926. Its students have made their name in various industries globally and in the core sector industries we have a stronger presence. The Department of Industrial Engineering and Management was established in 1977 offering M. Tech programme in Industrial Engineering and Management (IE&amp;M). Having run the M. Tech. programme in IE&amp;M for two full decades, the department gained requisite experience as well as expertise for running the MBA program. Keeping pace with the changing times, the erstwhile Department of Industrial Engineering and Management (IE&amp;M) was restructured and re-christened as Department of Management Studies and launched its MBA programme in 1997. The department has been able to make a mark in the industry, with the alumni making their presence felt across all the leading industries of the country. With the introduction of dual degree programme in the areas of Mining, Mineral and Petroleum Management, the department has taken a lead in emphasizing the effective management of core sector as well.</p>
-
-
-
-<p>Since its inception, the department has been moving ahead, continuously in tandem with the growth and diversification in the business field maintaining constant interaction with various industries. To its credit the department has successfully completed several consultancy assignments, in-house and off-campus executive development programmes and specific research projects supported by AICTE, UGC, ICSSR, MHRD, DGMS, CMPFO, NHPC, Power Grid, CIMFR, CIL, World Bank etc.</p>
-
-
-
-<p>The department has been constantly rated as A/A+ institute by the various rating agencies including AIMA-Business Standard, Business World, Business India, Outlook/C-fore etc. in their B-School surveys conducted from time to time. We have crossed these milestones in a period of just ten years. The Department has a Training and Placement cell headed by a placement advisor working under the overall supervision of the Head of Department. The cell is instrumental in organizing Training and Placement for the students of MBA and M. Tech. programmes.</p>
-
-
-
-<p>Apart from routine classroom teaching the students of Department of Management Studies have to actively take part in presentations, seminars, workshops etc. The students are required to work rigorously and the class room hours extend well beyond the 9 to 5 schedule. The concept is to train them in all aspects of the managerial practice. The faculty and the students of the department have also won laurels for the School by their all-round activities.<br></p>
-
-
-
-<div style="width: 100%; margin: 0 auto;" class="ml-slider-3-10-3 metaslider metaslider-flex metaslider-296 ml-slider  alignnormal">
-    <style type="text/css" id="metaslider-css-296">
-        #metaslider_296.flexslider .slides li {margin-right: 50px !important;}
-    </style>
-    <div id="metaslider_container_296">
-        <div id="metaslider_296">
-            <ul class="slides">
-                <li style="display: none; width: 100%;" class="slide-312 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-1-700x300.jpg" height="300" width="700" alt="" class="slider-296 slide-312" title="Dr Pramod Pathak" /><div class="caption-wrap"><div class="caption">Dr  Pramod Pathak during world conference on Ramayana</div></div></li>
-                <li style="display: none; width: 100%;" class="slide-317 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1-1-433x185.jpg" height="300" width="700" alt="" class="slider-296 slide-317" title="3 (1)" /></li>
-                <li style="display: none; width: 100%;" class="slide-319 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/4-2-640x274.jpg" height="300" width="700" alt="" class="slider-296 slide-319" title="4" /></li>
-                <li style="display: none; width: 100%;" class="slide-320 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1-1-700x300.jpg" height="300" width="700" alt="" class="slider-296 slide-320" title="5 (1)" /></li>
-                <li style="display: none; width: 100%;" class="slide-322 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-2-700x300.jpg" height="300" width="700" alt="" class="slider-296 slide-322" title="6" /></li>
-                <li style="display: none; width: 100%;" class="slide-323 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/7-1-1-700x300.jpg" height="300" width="700" alt="" class="slider-296 slide-323" title="7 (1)" /></li>
-                <li style="display: none; width: 100%;" class="slide-325 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9-1-700x300.jpg" height="300" width="700" alt="" class="slider-296 slide-325" title="9" /></li>
-                <li style="display: none; width: 100%;" class="slide-326 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/10-1-700x300.jpg" height="300" width="700" alt="" class="slider-296 slide-326" title="10" /></li>
-            </ul>
-        </div>
         
-    </div>
+<article id="post-58" class="post-58 page type-page status-publish hentry">
+
+<div class="entry-container">
+    <div class="entry-content">
+        
+<h2>MBA</h2>
+
+
+
+<p>The
+MBA program is a two-year full time course. Each academic year is divided into
+two semesters. In the first year, students are exposed to core courses
+consisting of certain basic and functional areas of management. In the summer
+vacation at the end of first year, students are required to spend approximately
+six weeks in an organization, doing a project on some significant aspect or
+problem of management.</p>
+
+
+
+<p>In
+the second year, besides completing the remaining core courses, students pursue
+elective courses in two of the following areas of management such as Marketing,
+Finance, Human Resource and Systems and Operations Management. Each student has
+to choose two elective courses from each area of specialization in the third
+and fourth semester.</p>
+
+
+
+<p>The
+admission to two year MBA program is through Common Admission Test (CAT).
+Aspiring candidates have to submit application in prescribed format (available
+on institute website in the month of January). The shortlisted candidates are
+then called for group discussion and an interview. The number of seats
+available is sixty-two with reservation as per Government of India guidelines.</p>
+
+
+
+<p>Find the syllabus structure <a href="http://proxap.in/ismdemo/wp-content/uploads/2018/12/Structure-n-Syllabus-MBA-Program.pdf">here</a></p>
+
+
+
+<p></p>
+
+
+
+<h2>Executive MBA</h2>
+
+
+
+<p>The Executive M.B.A
+program is a three-year program. The course content for Executive MBA program
+is same as for two-year regular MBA program but is distributed over six
+semesters. The classes are held over the weekend (Saturdays and Sundays).
+
+The admission to
+three year Executive MBA program is through written test and an interview.
+Aspiring candidates have to submit application in prescribed format (available
+on institute website in the month of April). The number of seats available is
+fifty with reservation as per Government of India guidelines
+
+
+
+</p>
+
+
+
+<p> Find the syllabus structure <a href="http://proxap.in/ismdemo/wp-content/uploads/2018/12/Structure-Syllabus-of-Executive-MBA-Program-2015-16-1.pdf">here</a></p>
+
+
+
+<h2>IEM</h2>
+
+
+
+<p>The two-year programme
+includes eleven core courses in the first and second semester. In the second
+semester the candidate has to choose a specialization paper from thirteen
+different specializations. Students have to undergo industrial training for six
+weeks at the end of second semester. In the third and fourth semester the
+student has to work on a Dissertation for the partial fulfilment of the M.Tech.
+programme.
+
+The admission to two
+year M.Tech. program is through Graduate Aptitude Test in Engineering (GATE).
+The number of seats available is twenty-six. An additional six seats are
+available for those who qualify in I.S.M Entrance Examination (these candidates
+are not provided any financial assistance by M.H.R.D). Reservation are as per
+Government of India guidelines
+
+
+
+</p>
+
+
+
+<p>Find the syllabus structure <a href="http://proxap.in/ismdemo/wp-content/uploads/2018/12/Structure-Syllabus-of-M.Tech_.IEM-Program-2015-16-1.pdf">here</a></p>
+    </div><!-- .entry-content -->
+
+        </div><!-- .entry-container -->
+</article><!-- #post-58 -->
+
+    </main><!-- #main -->
+</div><!-- #primary -->
 </div>
-
-
-
-<figure class="wp-block-image"><img src="https://www.iitism.ac.in/images/new.gif" alt=""/></figure>
-
-
-
-<p>Fotomela on 1st &amp; 2nd Feb Don&#8217;t miss this oppurtuniy</p>
-		</div><!-- .entry-content -->
-
-			</div><!-- .entry-container -->
-</article><!-- #post-11 -->
-
-		</main><!-- #main -->
-	</div><!-- #primary -->
-	</div>
-		</div><!-- #content -->
-			<footer id="colophon" class="site-footer">
-	<div class="footer-widgets-area column-4"  ><div class="wrapper"><div class="column-wrapper"><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-238"><a href="http://proxap.in/ismdemo/">IIT (ISM) Dhanbad</a></li>
+    </div><!-- #content -->
+        <footer id="colophon" class="site-footer">
+<div class="footer-widgets-area column-4"  ><div class="wrapper"><div class="column-wrapper"><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-238"><a href="http://proxap.in/ismdemo/">IIT (ISM) Dhanbad</a></li>
 <li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="http://proxap.in/ismdemo/campus-life/">Campus Life</a></li>
 <li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="http://proxap.in/ismdemo/department-of-management-studies-placement-cell/">Placements</a></li>
 </ul></div></aside></div><!-- .column-wrapper --><div class="column-wrapper"><aside id="jetpack_widget_social_icons-3" class="widget jetpack_widget_social_icons"><h3 class="widget-title">Follow Us</h3>
-			<ul class="jetpack-social-widget-list size-medium">
+        <ul class="jetpack-social-widget-list size-medium">
 
-				
-											<li class="jetpack-social-widget-item">
-							<a href="https://www.facebook.com/dmsiitism/" target="_self">
-								<span class="screen-reader-text">Facebook</span><svg class="icon icon-facebook" aria-hidden="true" role="img"> <use href="#icon-facebook" xlink:href="#icon-facebook"></use> </svg>							</a>
-						</li>
-					
-				
-											<li class="jetpack-social-widget-item">
-							<a href="https://www.linkedin.com/in/dms-iit-ism-dhanbad-93a36a151/" target="_self">
-								<span class="screen-reader-text">LinkedIn</span><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg>							</a>
-						</li>
-					
-				
-			</ul>
+            
+                                        <li class="jetpack-social-widget-item">
+                        <a href="https://www.facebook.com/dmsiitism/" target="_self">
+                            <span class="screen-reader-text">Facebook</span><svg class="icon icon-facebook" aria-hidden="true" role="img"> <use href="#icon-facebook" xlink:href="#icon-facebook"></use> </svg>							</a>
+                    </li>
+                
+            
+                                        <li class="jetpack-social-widget-item">
+                        <a href="https://www.linkedin.com/in/dms-iit-ism-dhanbad-93a36a151/" target="_self">
+                            <span class="screen-reader-text">LinkedIn</span><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg>							</a>
+                    </li>
+                
+            
+        </ul>
 
-		</aside></div><!-- .column-wrapper --><div class="column-wrapper"><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Events</h3>			<div class="textwidget"><p>Alumni meet</p>
+    </aside></div><!-- .column-wrapper --><div class="column-wrapper"><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Events</h3>			<div class="textwidget"><p>Alumni meet</p>
 <p>Srijan</p>
 <p>Basant</p>
 </div>
-		</aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><p><a href="https://drive.google.com/file/d/1tjPdYLw939VK_2r-bCCaOJ8kez6b7iMS/view?usp=sharing">Privacy Policy</a></p>
+    </aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><p><a href="https://drive.google.com/file/d/1tjPdYLw939VK_2r-bCCaOJ8kez6b7iMS/view?usp=sharing">Privacy Policy</a></p>
 <p><a href="https://drive.google.com/file/d/1RNNh06lUNWL4pH9yEu08nuHMQLZBc494/view?usp=sharing">Terms Of Use</a></p>
 <p>All images are subjected to copyrights@fotofreaks</p>
 <p>&nbsp;</p>
 </div>
-		</aside></div><!-- .column-wrapper --><div class="column-wrapper"><aside id="text-4" class="widget widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><ul class="contact">
+    </aside></div><!-- .column-wrapper --><div class="column-wrapper"><aside id="text-4" class="widget widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><ul class="contact">
 <li><i class="fa fa-map-marker"></i>Management Studies Indian Institute of Technology (Indian School of Mines), Dhanbad Jharkhand, India, 826004</li>
 </ul>
 </div>
-		</aside></div><!-- .column-wrapper --></div></div>		<div class="site-info">
-            <div class="wrapper">
-            		                <div class="copyright">
-	                    <p>
-	                    	Copyright &copy; 2018 | All Rights Reserved	                    </p>
-	                </div><!-- .copyright -->
-	            	                <div class="powered-by">
-	                    <p> Developed and Maintained by Vinuthna</p>
-	                </div><!-- .powered-by -->
-	                        </div><!-- .wrapper -->    
-        </div><!-- .site-info -->
-			</footer><!-- #colophon -->
-			<div class="backtotop">
-            <svg class="icon icon-up " aria-hidden="true" role="img"> <use href="#icon-up" xlink:href="#icon-up"></use> </svg>        </div><!-- .backtotop -->
-			</div><!-- #page -->
-	<!-- ngg_resource_manager_marker --><script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201944'></script>
+    </aside></div><!-- .column-wrapper --></div></div>		<div class="site-info">
+        <div class="wrapper">
+                                <div class="copyright">
+                    <p>
+                        Copyright &copy; 2018 | All Rights Reserved	                    </p>
+                </div><!-- .copyright -->
+                                <div class="powered-by">
+                    <p> Developed and Maintained by Vinuthna</p>
+                </div><!-- .powered-by -->
+                        </div><!-- .wrapper -->    
+    </div><!-- .site-info -->
+        </footer><!-- #colophon -->
+        <div class="backtotop">
+        <svg class="icon icon-up " aria-hidden="true" role="img"> <use href="#icon-up" xlink:href="#icon-up"></use> </svg>        </div><!-- .backtotop -->
+        </div><!-- #page -->
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201944'></script>
 <script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Octaa'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
@@ -436,43 +390,13 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/custom.min.js?ver=20151215'></script>
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.0'></script>
 <script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/wp-embed.min.js?ver=5.0.7'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.10.3'></script>
-<script type='text/javascript'>
-var metaslider_296 = function($) {$('#metaslider_296').addClass('flexslider');
-            $('#metaslider_296').flexslider({ 
-                slideshowSpeed:7000,
-                animation:'slide',
-                controlNav:true,
-                directionNav:true,
-                pauseOnHover:false,
-                direction:'horizontal',
-                reverse:false,
-                animationSpeed:600,
-                prevText:"Previous",
-                nextText:"Next",
-                fadeFirstSlide:false,
-                easing:"swing",
-                slideshow:true,
-                itemWidth:700,
-                minItems:1,
-                itemMargin:50,
-                useCSS:false
-            });
-            $(document).trigger('metaslider/initialized', '#metaslider_296');
-        };
-        var timer_metaslider_296 = function() {
-            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_296, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_296, 1) : metaslider_296(window.jQuery);
-        };
-        timer_metaslider_296();
-</script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.10.3'></script>
-	<div style="display:none">
-	</div>
+<div style="display:none">
+</div>
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'11',tz:'0',srv:'proxap.in'} ]);
-	_stq.push([ 'clickTrackerInit', '156005419', '11' ]);
+_stq = window._stq || [];
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'58',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '58' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
@@ -684,7 +608,7 @@ l109.632-101.077c1.903-1.902,2.852-4.182,2.852-6.849C493.356,243.367,492.401,241
 <symbol id="icon-spinner-two-way" viewBox="0 0 533.333 533.333">
 <path d="M266.667,0C121.485,0,3.407,116.022,0.079,260.403C3.163,134.433,98.95,33.333,216.667,33.333
 c119.661,0,216.667,104.467,216.667,233.333c0,27.614,22.386,50,50,50s50-22.386,50-50C533.333,119.391,413.942,0,266.667,0z
- M266.667,533.333c145.182,0,263.259-116.021,266.587-260.402C530.17,398.901,434.383,500,316.667,500
+M266.667,533.333c145.182,0,263.259-116.021,266.587-260.402C530.17,398.901,434.383,500,316.667,500
 C197.005,500,100,395.533,100,266.667c0-27.615-22.386-50-50-50s-50,22.386-50,50C0,413.942,119.391,533.333,266.667,533.333z"/>
 </symbol>
 <symbol id="icon-up" viewBox="0 0 64 64">
@@ -713,10 +637,10 @@ c1.39,0.004,2.517-1.117,2.519-2.506C19.484,28.811,18.361,27.684,16.972,27.68z M3
 c-0.908,0-1.644,0.732-1.644,1.641c0,0.904,0.733,1.643,1.644,1.643C30.716,18.994,31.451,18.258,31.451,17.352z M6.995,17.352
 c0-1.585-1.284-2.87-2.87-2.87s-2.869,1.285-2.869,2.87c0,1.584,1.283,2.869,2.869,2.869S6.995,18.936,6.995,17.352z M26.962,7.354
 c-0.504-0.506-1.319-0.504-1.825,0c-0.505,0.506-0.505,1.328,0,1.832c0.506,0.506,1.321,0.506,1.825,0S27.466,7.86,26.962,7.354z
- M9.973,24.354c-1.152-1.146-3.019-1.146-4.17-0.002c-1.151,1.146-1.152,3.012,0,4.16c1.152,1.148,3.018,1.15,4.168,0
+M9.973,24.354c-1.152-1.146-3.019-1.146-4.17-0.002c-1.151,1.146-1.152,3.012,0,4.16c1.152,1.148,3.018,1.15,4.168,0
 C11.125,27.367,11.125,25.502,9.973,24.354z M27.251,27.631c0.658-0.662,0.658-1.734-0.002-2.396
 c-0.658-0.658-1.726-0.658-2.385,0.004c-0.658,0.66-0.658,1.732,0,2.395C25.525,28.293,26.591,28.293,27.251,27.631z
- M10.047,10.427c1.188-1.189,1.188-3.119,0-4.311c-1.188-1.189-3.115-1.189-4.305,0c-1.188,1.189-1.188,3.119,0.001,4.311
+M10.047,10.427c1.188-1.189,1.188-3.119,0-4.311c-1.188-1.189-3.115-1.189-4.305,0c-1.188,1.189-1.188,3.119,0.001,4.311
 S8.858,11.618,10.047,10.427z"/>
 </symbol>
 <symbol id="icon-spinner-one-way" viewBox="0 0 516.727 516.727">
@@ -868,25 +792,5 @@ c0.091-0.647,0.349-1.086,0.635-1.337c-2.22-0.251-4.555-1.111-4.555-4.943c0-1.091
 </symbol>
 </defs>
 </svg>
-<script>
-	var myIndex = 0;
-	carousel();
-	
-	function carousel() {
-	  var i;
-	  var x = document.getElementsByClassName("mySlides");
-	  for (i = 0; i < x.length; i++) {
-		x[i].style.display = "none";  
-	  }
-	  myIndex++;
-	  if (myIndex > x.length) {myIndex = 1}    
-	  x[myIndex-1].style.display = "block";  
-	  setTimeout(carousel, 2000); // Change image every 2 seconds
-	}
-	</script>
-<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
-		</body>
-		</html>
-	
+    </body>
+    </html>

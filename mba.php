@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                    <title>MBA &#038; IEM</title>
+                    <title>MBA  &#038; M.Tech (IEM)</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -61,10 +61,10 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/mtech/" />
-<link rel='shortlink' href='https://wp.me/PayA8r-W' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fmtech%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fmtech%2F&#038;format=xml" />
+<link rel="canonical" href="http://proxap.in/ismdemo/mba/" />
+<link rel='shortlink' href='https://wp.me/PayA8r-J' />
+<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fmba%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Fmba%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -77,14 +77,16 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
     
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="MBA &#038; IEM" />
-<meta property="og:url" content="http://proxap.in/ismdemo/mtech/" />
-<meta property="og:description" content="MBA The MBA program is a two-year full time course. Each academic year is divided into two semesters. In the first year, students are exposed to core courses consisting of certain basic and functio…" />
-<meta property="article:published_time" content="2018-12-19T20:05:34+00:00" />
-<meta property="article:modified_time" content="2018-12-24T11:26:58+00:00" />
-<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:title" content="MBA  &#038; M.Tech (IEM)" />
+<meta property="og:url" content="http://proxap.in/ismdemo/mba/" />
+<meta property="og:description" content="Find the link for MBA &amp; MTech(IEM) Second year Batch Find the link for MBA &amp; MTech(IEM) First year Batch MBA Second-year details Second-year M.Tech (IEM) details First-Year Student Details …" />
+<meta property="article:published_time" content="2018-12-19T20:00:41+00:00" />
+<meta property="article:modified_time" content="2019-10-25T19:40:47+00:00" />
+<meta property="og:image" content="http://proxap.in/ismdemo/wp-content/uploads/2019/10/12.jpg" />
+<meta property="og:image:width" content="791" />
+<meta property="og:image:height" content="508" />
 <meta property="og:locale" content="en_US" />
-<meta name="twitter:text:title" content="MBA &#038; IEM" />
+<meta name="twitter:text:title" content="MBA  &#038; M.Tech (IEM)" />
 <meta name="twitter:card" content="summary" />
 
 <!-- End Jetpack Open Graph Tags -->
@@ -94,7 +96,7 @@ float: none;
 display: inline-block;
 }			</style>
             </head>
-        <body class="page-template-default page page-id-58 wp-custom-logo full no-sidebar">
+        <body class="page-template-default page page-id-45 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <div id="loader">
@@ -169,31 +171,31 @@ display: inline-block;
         </svg>
         <svg class="icon icon-close " aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>        </button>
     <nav id="site-navigation" class="main-navigation">
-        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.html">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
+        <ul id="primary-menu" class="menu nav-menu"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-109"><a href="index.php">Home<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.html">Facilities</a></li>
+                <li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="./facilities.php">Facilities</a></li>
             </ul>
             </li>
             <li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-500"><a href="#">Admissions<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.html">Admissions 2019</a></li>
-                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.html">MBA &#038; IEM</a></li>
-                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.html">PhD</a></li>
+                <li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="./admissions-2019.php">Admissions 2019</a></li>
+                <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="./mtech.php">MBA &#038; IEM</a></li>
+                <li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="./phd.php">PhD</a></li>
             </ul>
             </li>
             <li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-430"><a href="#">People<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.html">Faculty</a></li>
-                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.html">PhD</a></li>
-                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.html">MBA &#038;  MTech(IEM)</a></li>
-                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.html">Alumni</a></li>
+                <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="./faculty.php">Faculty</a></li>
+                <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="./phd.php">PhD</a></li>
+                <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="./mba.php">MBA &#038;  MTech(IEM)</a></li>
+                <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="./alumini.php">Alumni</a></li>
             </ul>
             </li>
             <li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">Research<svg class="icon icon-angle-down " aria-hidden="true" role="img"> <use href="#icon-angle-down" xlink:href="#icon-angle-down"></use> </svg></a>
             <ul class="sub-menu">
-                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.html">Research Activites</a></li>
-                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.html">Industrial Interaction</a></li>
-                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.html">Seminars/Workshops</a></li>
+                <li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="./research-activity.php">Research Activites</a></li>
+                <li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="./industrial-interaction.php">Industrial Interaction</a></li>
+                <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="./seminars-workshops.php">Seminars/Workshops</a></li>
             </ul>
 </li>
 </ul>		</nav><!-- #site-navigation -->
@@ -207,8 +209,8 @@ display: inline-block;
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
-                        <h2>MBA &#038; IEM</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">MBA &#038; IEM</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+                        <h2>MBA  &#038; M.Tech (IEM)</h2>
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">MBA  &#038; M.Tech (IEM)</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -216,106 +218,88 @@ display: inline-block;
     <main id="main" class="site-main">
 
         
-<article id="post-58" class="post-58 page type-page status-publish hentry">
+<article id="post-45" class="post-45 page type-page status-publish hentry">
 
 <div class="entry-container">
     <div class="entry-content">
         
-<h2>MBA</h2>
+<p>Find the<em> <a href="https://drive.google.com/open?id=1teC4yVfY8EhFqhFahvtAj-GZ4t2bqvrm">link</a> </em>for MBA &amp; MTech(IEM) Second year Batch</p>
 
 
 
-<p>The
-MBA program is a two-year full time course. Each academic year is divided into
-two semesters. In the first year, students are exposed to core courses
-consisting of certain basic and functional areas of management. In the summer
-vacation at the end of first year, students are required to spend approximately
-six weeks in an organization, doing a project on some significant aspect or
-problem of management.</p>
+<p style="text-align:left"> Find the <a href="https://drive.google.com/open?id=18-lw2h77whqYJIMSCVN9NlWs6TQzPp2I"><em>link</em></a>  for MBA &amp; MTech(IEM) First year Batch </p>
 
 
 
-<p>In
-the second year, besides completing the remaining core courses, students pursue
-elective courses in two of the following areas of management such as Marketing,
-Finance, Human Resource and Systems and Operations Management. Each student has
-to choose two elective courses from each area of specialization in the third
-and fourth semester.</p>
+<h4>MBA Second-year details </h4>
 
 
 
-<p>The
-admission to two year MBA program is through Common Admission Test (CAT).
-Aspiring candidates have to submit application in prescribed format (available
-on institute website in the month of January). The shortlisted candidates are
-then called for group discussion and an interview. The number of seats
-available is sixty-two with reservation as per Government of India guidelines.</p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/p1.jpg" alt="" class="wp-image-800" width="751" height="603" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/p1.jpg 819w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/p1-300x241.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/p1-768x618.jpg 768w" sizes="(max-width: 751px) 100vw, 751px" /></figure>
 
 
 
-<p>Find the syllabus structure <a href="http://proxap.in/ismdemo/wp-content/uploads/2018/12/Structure-n-Syllabus-MBA-Program.pdf">here</a></p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/2.jpg" alt="" class="wp-image-801" width="754" height="611" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/2.jpg 803w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/2-300x243.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/2-768x623.jpg 768w" sizes="(max-width: 754px) 100vw, 754px" /></figure>
 
 
 
-<p></p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/3.jpg" alt="" class="wp-image-802" width="759" height="624" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/3.jpg 791w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/3-300x247.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/3-768x632.jpg 768w" sizes="(max-width: 759px) 100vw, 759px" /></figure>
 
 
 
-<h2>Executive MBA</h2>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/4.jpg" alt="" class="wp-image-803" width="767" height="622" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/4.jpg 808w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/4-300x244.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/4-768x624.jpg 768w" sizes="(max-width: 767px) 100vw, 767px" /></figure>
 
 
 
-<p>The Executive M.B.A
-program is a three-year program. The course content for Executive MBA program
-is same as for two-year regular MBA program but is distributed over six
-semesters. The classes are held over the weekend (Saturdays and Sundays).
-
-The admission to
-three year Executive MBA program is through written test and an interview.
-Aspiring candidates have to submit application in prescribed format (available
-on institute website in the month of April). The number of seats available is
-fifty with reservation as per Government of India guidelines
+<h4>Second-year M.Tech (IEM) details</h4>
 
 
 
-</p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/5.jpg" alt="" class="wp-image-806" width="769" height="621" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/5.jpg 811w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/5-300x242.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/5-768x619.jpg 768w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
 
 
 
-<p> Find the syllabus structure <a href="http://proxap.in/ismdemo/wp-content/uploads/2018/12/Structure-Syllabus-of-Executive-MBA-Program-2015-16-1.pdf">here</a></p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/6.jpg" alt="" class="wp-image-807" width="773" height="636" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/6.jpg 800w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/6-300x247.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/6-768x632.jpg 768w" sizes="(max-width: 773px) 100vw, 773px" /></figure>
 
 
 
-<h2>IEM</h2>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/7.jpg" alt="" class="wp-image-808" width="776" height="479" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/7.jpg 800w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/7-300x186.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/7-768x475.jpg 768w" sizes="(max-width: 776px) 100vw, 776px" /></figure>
 
 
 
-<p>The two-year programme
-includes eleven core courses in the first and second semester. In the second
-semester the candidate has to choose a specialization paper from thirteen
-different specializations. Students have to undergo industrial training for six
-weeks at the end of second semester. In the third and fourth semester the
-student has to work on a Dissertation for the partial fulfilment of the M.Tech.
-programme.
-
-The admission to two
-year M.Tech. program is through Graduate Aptitude Test in Engineering (GATE).
-The number of seats available is twenty-six. An additional six seats are
-available for those who qualify in I.S.M Entrance Examination (these candidates
-are not provided any financial assistance by M.H.R.D). Reservation are as per
-Government of India guidelines
+<h4>First-Year Student Details</h4>
 
 
 
-</p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/11.jpg" alt="" class="wp-image-811" width="792" height="507" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/11.jpg 797w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/11-300x192.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/11-768x491.jpg 768w" sizes="(max-width: 792px) 100vw, 792px" /></figure>
 
 
 
-<p>Find the syllabus structure <a href="http://proxap.in/ismdemo/wp-content/uploads/2018/12/Structure-Syllabus-of-M.Tech_.IEM-Program-2015-16-1.pdf">here</a></p>
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/12.jpg" alt="" class="wp-image-812" width="794" height="509" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/12.jpg 791w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/12-300x193.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/12-768x493.jpg 768w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/12-700x450.jpg 700w" sizes="(max-width: 794px) 100vw, 794px" /></figure>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/13.jpg" alt="" class="wp-image-813" width="796" height="491" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/13.jpg 798w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/13-300x185.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/13-768x474.jpg 768w" sizes="(max-width: 796px) 100vw, 796px" /></figure>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/14.jpg" alt="" class="wp-image-814" width="800" height="503" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/14.jpg 806w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/14-300x188.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/14-768x482.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<h4>First-Year M.Tech(IEM)</h4>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/21.jpg" alt="" class="wp-image-816" width="809" height="656" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/21.jpg 806w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/21-300x243.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/21-768x623.jpg 768w" sizes="(max-width: 809px) 100vw, 809px" /></figure>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/22.jpg" alt="" class="wp-image-818" width="811" height="336" srcset="http://proxap.in/ismdemo/wp-content/uploads/2019/10/22.jpg 804w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/22-300x125.jpg 300w, http://proxap.in/ismdemo/wp-content/uploads/2019/10/22-768x319.jpg 768w" sizes="(max-width: 811px) 100vw, 811px" /></figure>
     </div><!-- .entry-content -->
 
         </div><!-- .entry-container -->
-</article><!-- #post-58 -->
+</article><!-- #post-45 -->
 
     </main><!-- #main -->
 </div><!-- #primary -->
@@ -395,8 +379,8 @@ var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hi
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 _stq = window._stq || [];
-_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'58',tz:'0',srv:'proxap.in'} ]);
-_stq.push([ 'clickTrackerInit', '156005419', '58' ]);
+_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'45',tz:'0',srv:'proxap.in'} ]);
+_stq.push([ 'clickTrackerInit', '156005419', '45' ]);
 </script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
