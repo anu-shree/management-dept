@@ -4,17 +4,17 @@
         <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="profile" href="https://gmpg.org/xfn/11">
                     <title>Faculty</title>
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//secure.gravatar.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://proxap.in/ismdemo/feed/" />
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://proxap.in/ismdemo/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://proxap.in/ismdemo/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://proxap.in/ismdemo/comments/feed/" />
     <script type="text/javascript">
-        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/proxap.in\/ismdemo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.7"}};
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/proxap.in\/ismdemo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.7"}};
         !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
     </script>
     <style type="text/css">
@@ -31,13 +31,13 @@ background: none !important;
 padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='wp-block-library-css'  href='http://proxap.in/ismdemo/wp-includes/css/dist/block-library/style.min.css?ver=5.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://proxap.in/ismdemo/wp-includes/css/dist/block-library/style.min.css?ver=5.0.7' type='text/css' media='all' />
 <link rel='stylesheet' id='uni-education-fonts-css'  href='https://fonts.googleapis.com/css?family=PT+Serif%3A200%2C300%2C400%2C500%2C600%2C700%7CPT+Sans%3A200%2C300%2C400%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-slick-css'  href='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/css/slick.min.css?ver=5.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-slick-theme-css'  href='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/css/slick-theme.min.css?ver=5.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/css/font-awesome.min.css?ver=5.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='uni-education-style-css'  href='http://proxap.in/ismdemo/wp-content/themes/uni-education/style.css?ver=5.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='__EPYT__style-css'  href='http://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-slick-css'  href='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/css/slick.min.css?ver=5.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-slick-theme-css'  href='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/css/slick-theme.min.css?ver=5.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/css/font-awesome.min.css?ver=5.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='uni-education-style-css'  href='https://proxap.in/ismdemo/wp-content/themes/uni-education/style.css?ver=5.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='https://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.0' type='text/css' media='all' />
 <style id='__EPYT__style-inline-css' type='text/css'>
 
             .epyt-gallery-thumb {
@@ -45,26 +45,26 @@ padding: 0 !important;
             }
             
 </style>
-<link rel='stylesheet' id='jetpack_css-css'  href='http://proxap.in/ismdemo/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.1' type='text/css' media='all' />
-<!--n2css--><script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://proxap.in/ismdemo/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.1' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://proxap.in/ismdemo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <!--[if lt IE 9]>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/html5.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/html5.min.js?ver=3.7.3'></script>
 <![endif]-->
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php","security":"8bafe00409","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/proxap.in\/ismdemo\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"http:\/\/proxap.in\/ismdemo\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"13.0","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php","security":"8bafe00409","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/proxap.in\/ismdemo\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/proxap.in\/ismdemo\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"13.0","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.0'></script>
-<link rel='https://api.w.org/' href='http://proxap.in/ismdemo/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://proxap.in/ismdemo/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.0'></script>
+<link rel='https://api.w.org/' href='https://proxap.in/ismdemo/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://proxap.in/ismdemo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://proxap.in/ismdemo/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.7" />
-<link rel="canonical" href="http://proxap.in/ismdemo/faculty/" />
+<link rel="canonical" href="https://proxap.in/ismdemo/faculty/" />
 <link rel='shortlink' href='https://wp.me/PayA8r-3T' />
-<link rel="alternate" type="application/json+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffaculty%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffaculty%2F&#038;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="https://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffaculty%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://proxap.in/ismdemo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fproxap.in%2Fismdemo%2Ffaculty%2F&#038;format=xml" />
 <!-- <meta name="NextGEN" version="3.1.2" /> -->
 
 <link rel='dns-prefetch' href='//v0.wordpress.com'/>
@@ -78,7 +78,7 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Faculty" />
-<meta property="og:url" content="http://proxap.in/ismdemo/faculty/" />
+<meta property="og:url" content="https://proxap.in/ismdemo/faculty/" />
 <meta property="og:description" content="Faculty of Department of Management Studies Our Pride We have experienced faculty with a lot of exposure .They teach incorporating the dynamic changes in the corporate world Chandan Bhar Ph.D. Indi…" />
 <meta property="article:published_time" content="2018-12-22T08:50:50+00:00" />
 <meta property="article:modified_time" content="2019-10-02T09:53:53+00:00" />
@@ -93,8 +93,8 @@ var _EPYT_ = {"ajaxurl":"http:\/\/proxap.in\/ismdemo\/wp-admin\/admin-ajax.php",
 float: none;
 display: inline-block;
 }			</style>
-            <link rel='stylesheet' id='metaslider-flex-slider-css'  href='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
-<link rel='stylesheet' id='metaslider-public-css'  href='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
+            <link rel='stylesheet' id='metaslider-flex-slider-css'  href='https://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='https://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.10.3' type='text/css' media='all' property='stylesheet' />
 </head>
         <body class="page-template-default page page-id-241 wp-custom-logo full no-sidebar">
         <div id="page" class="site">
@@ -131,7 +131,7 @@ display: inline-block;
                     <ul>
                         <li>
                             <div id="search">
-<form role="search" method="get" class="search-form" action="http://proxap.in/ismdemo/">
+<form role="search" method="get" class="search-form" action="https://proxap.in/ismdemo/">
 <label>
     <span class="screen-reader-text">Search for:</span>
 </label>
@@ -145,9 +145,9 @@ display: inline-block;
                     </ul>
                 </div>
                                 <div class="social-menu">
-                    <ul id="menu-social-menu" class="menu"><li id="menu-item-482" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-482"><a href="http://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-notice/"><span class="screen-reader-text">Notices</span></a></li>
-<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-480"><a href="http://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-faculty_members-management_studies/"><span class="screen-reader-text">Faculty</span></a></li>
-<li id="menu-item-481" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-481"><a href="http://proxap.in/ismdemo/tag/https-mis-iitism-ac-in-index-php-login/"><span class="screen-reader-text">MIS</span></a></li>
+                    <ul id="menu-social-menu" class="menu"><li id="menu-item-482" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-482"><a href="https://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-notice/"><span class="screen-reader-text">Notices</span></a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-480"><a href="https://proxap.in/ismdemo/tag/https-www-iitism-ac-in-index-php-faculty_members-management_studies/"><span class="screen-reader-text">Faculty</span></a></li>
+<li id="menu-item-481" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-481"><a href="https://proxap.in/ismdemo/tag/https-mis-iitism-ac-in-index-php-login/"><span class="screen-reader-text">MIS</span></a></li>
 </ul>	                </div><!-- .social-menu -->
                         </div><!-- .wrapper -->
     </div><!-- #top-menu -->
@@ -156,8 +156,8 @@ display: inline-block;
         <div class="site-menu">
         <div class="container">
             <div class="site-branding pull-left">
-                <a href="http://proxap.in/ismdemo/" class="custom-logo-link" rel="home" itemprop="url"><img width="307" height="324" src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png" class="custom-logo" alt="" itemprop="logo" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png 307w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/logo-284x300.png 284w" sizes="(max-width: 307px) 100vw, 307px" /></a>					<div class="site-details">
-                                                <p class="site-title"><a href="http://proxap.in/ismdemo/" rel="home"></a></p>
+                <a href="https://proxap.in/ismdemo/" class="custom-logo-link" rel="home" itemprop="url"><img width="307" height="324" src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png" class="custom-logo" alt="" itemprop="logo" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/logo.png 307w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/logo-284x300.png 284w" sizes="(max-width: 307px) 100vw, 307px" /></a>					<div class="site-details">
+                                                <p class="site-title"><a href="https://proxap.in/ismdemo/" rel="home"></a></p>
                                         </div><!-- .site-details -->
             </div><!-- .site-branding -->
         <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
@@ -205,12 +205,12 @@ display: inline-block;
     </header><!-- #masthead -->
         <div id="content" class="site-content">
 
-    <div class="inner-header-image" style="background-image: url( 'http://proxap.in/ismdemo/wp-content/uploads/2018/12/cropped-about-3.jpg' )">
+    <div class="inner-header-image" style="background-image: url( 'https://proxap.in/ismdemo/wp-content/uploads/2018/12/cropped-about-3.jpg' )">
         <div class="overlay"></div>
         <div class="wrapper">
             <div class="custom-header-content">
                         <h2>Faculty</h2>
-<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Faculty</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
+<div id="breadcrumb-list" ><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="https://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="trail-item trail-begin"><a href="https://proxap.in/ismdemo" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Faculty</span><meta itemprop="position" content="2" /></li></ul></nav></div><!-- #breadcrumb-list -->                </div><!-- .custom-header-content -->
         </div><!-- .wrapper -->
     </div><!-- .custom-header-content-wrapper -->
     <div class="single-template-wrapper wrapper page-section">
@@ -234,25 +234,25 @@ display: inline-block;
 <div id="metaslider_container_244">
     <div id="metaslider_244">
         <ul class="slides">
-            <li style="display: none; width: 100%;" class="slide-291 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-291" title="Head Of The Department" /><div class="caption-wrap"><div class="caption">Prof Chandan Bhar</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-260 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/12-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-260" title="12" /><div class="caption-wrap"><div class="caption">Prof Pramod Pathak</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-282 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/10-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-282" title="10" /><div class="caption-wrap"><div class="caption">Prof Jamini Kanta Pattanayak</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-289 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-289" title="3" /><div class="caption-wrap"><div class="caption">Prof Govin Swaroop Pathak</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-280 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/14-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-280" title="14" /><div class="caption-wrap"><div class="caption">Prof Saumya Singh</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-287 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-287" title="5" /><div class="caption-wrap"><div class="caption">  
+            <li style="display: none; width: 100%;" class="slide-291 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-291" title="Head Of The Department" /><div class="caption-wrap"><div class="caption">Prof Chandan Bhar</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-260 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/12-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-260" title="12" /><div class="caption-wrap"><div class="caption">Prof Pramod Pathak</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-282 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/10-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-282" title="10" /><div class="caption-wrap"><div class="caption">Prof Jamini Kanta Pattanayak</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-289 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-289" title="3" /><div class="caption-wrap"><div class="caption">Prof Govin Swaroop Pathak</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-280 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/14-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-280" title="14" /><div class="caption-wrap"><div class="caption">Prof Saumya Singh</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-287 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-287" title="5" /><div class="caption-wrap"><div class="caption">  
 Prof Krishnendu Shaw</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-247 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/13-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-247" title="13" /><div class="caption-wrap"><div class="caption">Prof  Sandeep Mondal
+            <li style="display: none; width: 100%;" class="slide-247 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/13-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-247" title="13" /><div class="caption-wrap"><div class="caption">Prof  Sandeep Mondal
 </div></div></li>
-            <li style="display: none; width: 100%;" class="slide-284 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/8-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-284" title="Prof Niladri Das" /><div class="caption-wrap"><div class="caption">Prof  Niladri Das</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-283 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-283" title="9" /><div class="caption-wrap"><div class="caption">Prof  Mrinalini Pandey</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-281 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/11-132x165.jpg" height="250" width="200" alt="" class="slider-244 slide-281" title="11" /><div class="caption-wrap"><div class="caption">Prof Pradeep Prasad</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-290 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-290" title="2" /><div class="caption-wrap"><div class="caption">Prof Bhibas Chandra</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-286 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-286" title="6" /><div class="caption-wrap"><div class="caption">Prof Kuthambalayan Sridhar Thyagaraj</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-288 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/4-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-288" title="4" /><div class="caption-wrap"><div class="caption">Prof Mohd Irfan</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-285 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/7-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-285" title="7" /><div class="caption-wrap"><div class="caption">Prof Mihir K Sinha</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-785 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/09/Shashank_Bansal-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-785" title="Prof Shashank Bansal" /><div class="caption-wrap"><div class="caption">Prof Shashank Bansal</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-790 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/himanshu_gupta-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-790" title="himanshu_gupta" /><div class="caption-wrap"><div class="caption">Prof Himanshu Gupta</div></div></li>
-            <li style="display: none; width: 100%;" class="slide-791 ms-image"><img src="http://proxap.in/ismdemo/wp-content/uploads/2019/10/Aparna-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-791" title="Aparna" /><div class="caption-wrap"><div class="caption">Prof Aparna Krishna</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-284 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/8-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-284" title="Prof Niladri Das" /><div class="caption-wrap"><div class="caption">Prof  Niladri Das</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-283 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/9-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-283" title="9" /><div class="caption-wrap"><div class="caption">Prof  Mrinalini Pandey</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-281 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/11-132x165.jpg" height="250" width="200" alt="" class="slider-244 slide-281" title="11" /><div class="caption-wrap"><div class="caption">Prof Pradeep Prasad</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-290 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-290" title="2" /><div class="caption-wrap"><div class="caption">Prof Bhibas Chandra</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-286 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-286" title="6" /><div class="caption-wrap"><div class="caption">Prof Kuthambalayan Sridhar Thyagaraj</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-288 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/4-1-120x150.jpg" height="250" width="200" alt="" class="slider-244 slide-288" title="4" /><div class="caption-wrap"><div class="caption">Prof Mohd Irfan</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-285 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/7-1-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-285" title="7" /><div class="caption-wrap"><div class="caption">Prof Mihir K Sinha</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-785 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2019/09/Shashank_Bansal-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-785" title="Prof Shashank Bansal" /><div class="caption-wrap"><div class="caption">Prof Shashank Bansal</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-790 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2019/10/himanshu_gupta-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-790" title="himanshu_gupta" /><div class="caption-wrap"><div class="caption">Prof Himanshu Gupta</div></div></li>
+            <li style="display: none; width: 100%;" class="slide-791 ms-image"><img src="https://proxap.in/ismdemo/wp-content/uploads/2019/10/Aparna-200x250.jpg" height="250" width="200" alt="" class="slider-244 slide-791" title="Aparna" /><div class="caption-wrap"><div class="caption">Prof Aparna Krishna</div></div></li>
         </ul>
     </div>
     
@@ -269,7 +269,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1.jpg" alt="" class="wp-image-162" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1.jpg" alt="" class="wp-image-162" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/1-1-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Chandan Bhar </strong></p>
 
 
@@ -279,7 +279,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/12.jpg" alt="" class="wp-image-173" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/12.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/12-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/12.jpg" alt="" class="wp-image-173" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/12.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/12-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Pramod Pathak </strong></p>
 
 
@@ -289,7 +289,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/10.jpg" alt="" class="wp-image-171"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/10.jpg" alt="" class="wp-image-171"/></figure><div class="wp-block-media-text__content">
 <p><strong>Jamini Kanta Pattanayak</strong></p>
 
 
@@ -299,7 +299,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1.jpg" alt="" class="wp-image-164"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/3-1.jpg" alt="" class="wp-image-164"/></figure><div class="wp-block-media-text__content">
 <p><strong>Govind Swaroop Pathak  </strong></p>
 
 
@@ -309,7 +309,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/14.jpg" alt="" class="wp-image-175" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/14.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/14-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/14.jpg" alt="" class="wp-image-175" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/14.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/14-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Saumya Singh </strong></p>
 
 
@@ -319,7 +319,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1.jpg" alt="" class="wp-image-166"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/5-1.jpg" alt="" class="wp-image-166"/></figure><div class="wp-block-media-text__content">
 <p><strong>Krishnendu Shaw </strong></p>
 
 
@@ -329,7 +329,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/13.jpg" alt="" class="wp-image-174" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/13.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/13-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/13.jpg" alt="" class="wp-image-174" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/13.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/13-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Sandeep Mondal </strong></p>
 
 
@@ -339,7 +339,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/8.jpg" alt="" class="wp-image-169" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/8.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/8-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/8.jpg" alt="" class="wp-image-169" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/8.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/8-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Niladri Das  </strong></p>
 
 
@@ -349,7 +349,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9.jpg" alt="" class="wp-image-170" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/9.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/9-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/9.jpg" alt="" class="wp-image-170" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/9.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/9-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Mrinalini Pandey</strong> </p>
 
 
@@ -359,7 +359,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2.jpg" alt="" class="wp-image-163" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2.jpg" alt="" class="wp-image-163" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/2-2-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Bibhas Chandra</strong></p>
 
 
@@ -369,7 +369,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1.jpg" alt="" class="wp-image-167" srcset="http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1.jpg 413w, http://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1.jpg" alt="" class="wp-image-167" srcset="https://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1.jpg 413w, https://proxap.in/ismdemo/wp-content/uploads/2018/12/6-1-233x300.jpg 233w" sizes="(max-width: 413px) 100vw, 413px" /></figure><div class="wp-block-media-text__content">
 <p><strong>Kuthambalayan Sridhar</strong> <strong>Thyagaraj </strong> </p>
 
 
@@ -379,7 +379,7 @@ Prof Krishnendu Shaw</div></div></li>
 
 
 
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://proxap.in/ismdemo/wp-content/uploads/2018/12/4-1.jpg" alt="" class="wp-image-165"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://proxap.in/ismdemo/wp-content/uploads/2018/12/4-1.jpg" alt="" class="wp-image-165"/></figure><div class="wp-block-media-text__content">
 <p><strong>Mohd. Irfan </strong></p>
 
 
@@ -396,9 +396,9 @@ Prof Krishnendu Shaw</div></div></li>
 </div>
     </div><!-- #content -->
         <footer id="colophon" class="site-footer">
-<div class="footer-widgets-area column-4"  ><div class="wrapper"><div class="column-wrapper"><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-238"><a href="http://proxap.in/ismdemo/">IIT (ISM) Dhanbad</a></li>
-<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="http://proxap.in/ismdemo/campus-life/">Campus Life</a></li>
-<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="http://proxap.in/ismdemo/department-of-management-studies-placement-cell/">Placements</a></li>
+<div class="footer-widgets-area column-4"  ><div class="wrapper"><div class="column-wrapper"><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-238"><a href="https://proxap.in/ismdemo/">IIT (ISM) Dhanbad</a></li>
+<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="https://proxap.in/ismdemo/campus-life/">Campus Life</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://proxap.in/ismdemo/department-of-management-studies-placement-cell/">Placements</a></li>
 </ul></div></aside></div><!-- .column-wrapper --><div class="column-wrapper"><aside id="jetpack_widget_social_icons-3" class="widget jetpack_widget_social_icons"><h3 class="widget-title">Follow Us</h3>
         <ul class="jetpack-social-widget-list size-medium">
 
@@ -452,19 +452,19 @@ Prof Krishnendu Shaw</div></div></li>
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.0.7'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.0.7'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var uni_education_l10n = {"quote":"<svg class=\"icon icon-quote-right \" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-quote-right\" xlink:href=\"#icon-quote-right\"><\/use> <\/svg>","expand":"Expand child menu","collapse":"Collapse child menu","icon":"<svg class=\"icon icon-angle-down \" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-angle-down\" xlink:href=\"#icon-angle-down\"><\/use> <span class=\"svg-fallback icon-angle-down\"><\/span><\/svg>"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/navigation.min.js?ver=20151215'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/skip-link-focus-fix.min.js?ver=20151215'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/slick.min.js?ver=5.0.7'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/custom.min.js?ver=20151215'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.0'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-includes/js/wp-embed.min.js?ver=5.0.7'></script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.10.3'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/navigation.min.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/skip-link-focus-fix.min.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/slick.min.js?ver=5.0.7'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/themes/uni-education/assets/js/custom.min.js?ver=20151215'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.0'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-includes/js/wp-embed.min.js?ver=5.0.7'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.10.3'></script>
 <script type='text/javascript'>
 var metaslider_244 = function($) {$('#metaslider_244').addClass('flexslider');
         $('#metaslider_244').flexslider({ 
@@ -493,7 +493,7 @@ var metaslider_244 = function($) {$('#metaslider_244').addClass('flexslider');
     };
     timer_metaslider_244();
 </script>
-<script type='text/javascript' src='http://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.10.3'></script>
+<script type='text/javascript' src='https://proxap.in/ismdemo/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.10.3'></script>
 <div style="display:none">
 </div>
 <script type='text/javascript' src='https://stats.wp.com/e-201944.js' async='async' defer='defer'></script>
@@ -502,7 +502,7 @@ _stq = window._stq || [];
 _stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'156005419',post:'241',tz:'0',srv:'proxap.in'} ]);
 _stq.push([ 'clickTrackerInit', '156005419', '241' ]);
 </script>
-<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
 <defs>
 <symbol id="icon-wave" viewBox="0 0 1000 100">
 <path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"></path>
@@ -765,7 +765,7 @@ z"/>
 </symbol>
 </defs>
 </svg>
-<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
 <defs>
 <symbol id="icon-500px" viewBox="0 0 24 24">
 <path d="M6.94026,15.1412c.00437.01213.108.29862.168.44064a6.55008,6.55008,0,1,0,6.03191-9.09557,6.68654,6.68654,0,0,0-2.58357.51467A8.53914,8.53914,0,0,0,8.21268,8.61344L8.209,8.61725V3.22948l9.0504-.00008c.32934-.0036.32934-.46353.32934-.61466s0-.61091-.33035-.61467L7.47248,2a.43.43,0,0,0-.43131.42692v7.58355c0,.24466.30476.42131.58793.4819.553.11812.68074-.05864.81617-.2457l.018-.02481A10.52673,10.52673,0,0,1,9.32258,9.258a5.35268,5.35268,0,1,1,7.58985,7.54976,5.417,5.417,0,0,1-3.80867,1.56365,5.17483,5.17483,0,0,1-2.69822-.74478l.00342-4.61111a2.79372,2.79372,0,0,1,.71372-1.78792,2.61611,2.61611,0,0,1,1.98282-.89477,2.75683,2.75683,0,0,1,1.95525.79477,2.66867,2.66867,0,0,1,.79656,1.909,2.724,2.724,0,0,1-2.75849,2.748,4.94651,4.94651,0,0,1-.86254-.13719c-.31234-.093-.44519.34058-.48892.48349-.16811.54966.08453.65862.13687.67489a3.75751,3.75751,0,0,0,1.25234.18375,3.94634,3.94634,0,1,0-2.82444-6.742,3.67478,3.67478,0,0,0-1.13028,2.584l-.00041.02323c-.0035.11667-.00579,2.881-.00644,3.78811l-.00407-.00451a6.18521,6.18521,0,0,1-1.0851-1.86092c-.10544-.27856-.34358-.22925-.66857-.12917-.14192.04372-.57386.17677-.47833.489Zm4.65165-1.08338a.51346.51346,0,0,0,.19513.31818l.02276.022a.52945.52945,0,0,0,.3517.18416.24242.24242,0,0,0,.16577-.0611c.05473-.05082.67382-.67812.73287-.738l.69041.68819a.28978.28978,0,0,0,.21437.11032.53239.53239,0,0,0,.35708-.19486c.29792-.30419.14885-.46821.07676-.54751l-.69954-.69975.72952-.73469c.16-.17311.01874-.35708-.12218-.498-.20461-.20461-.402-.25742-.52855-.14083l-.7254.72665-.73354-.73375a.20128.20128,0,0,0-.14179-.05695.54135.54135,0,0,0-.34379.19648c-.22561.22555-.274.38149-.15656.5059l.73374.7315-.72942.73072A.26589.26589,0,0,0,11.59191,14.05782Zm1.59866-9.915A8.86081,8.86081,0,0,0,9.854,4.776a.26169.26169,0,0,0-.16938.22759.92978.92978,0,0,0,.08619.42094c.05682.14524.20779.531.50006.41955a8.40969,8.40969,0,0,1,2.91968-.55484,7.87875,7.87875,0,0,1,3.086.62286,8.61817,8.61817,0,0,1,2.30562,1.49315.2781.2781,0,0,0,.18318.07586c.15529,0,.30425-.15253.43167-.29551.21268-.23861.35873-.4369.1492-.63538a8.50425,8.50425,0,0,0-2.62312-1.694A9.0177,9.0177,0,0,0,13.19058,4.14283ZM19.50945,18.6236h0a.93171.93171,0,0,0-.36642-.25406.26589.26589,0,0,0-.27613.06613l-.06943.06929A7.90606,7.90606,0,0,1,7.60639,18.505a7.57284,7.57284,0,0,1-1.696-2.51537,8.58715,8.58715,0,0,1-.5147-1.77754l-.00871-.04864c-.04939-.25873-.28755-.27684-.62981-.22448-.14234.02178-.5755.088-.53426.39969l.001.00712a9.08807,9.08807,0,0,0,15.406,4.99094c.00193-.00192.04753-.04718.0725-.07436C19.79425,19.16234,19.87422,18.98728,19.50945,18.6236Z"/>
